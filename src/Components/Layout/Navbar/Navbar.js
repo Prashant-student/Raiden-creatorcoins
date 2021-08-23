@@ -16,8 +16,8 @@ const Navbar = () => {
           <NavLink to="/sell" activeStyle>
             Sell
           </NavLink>
-          <NavLink to="/collectables" activeStyle>
-            Collectables
+          <NavLink to="/creator" activeStyle>
+            Creator
           </NavLink>
           <NavLink to="/sign-up" activeStyle>
             Sign-Up
