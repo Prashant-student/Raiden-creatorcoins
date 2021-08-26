@@ -4,12 +4,12 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import Navbar from "./Components/Layout/Navbar/Navbar";
 
-import Home from "./Components/Pages/Home";
-import Buy from "./Components/Pages/Buy";
-import Sell from "./Components/Pages/Sell";
-import Creator from "./Components/Pages/Creator";
-import SignUp from "./Components/Pages/SignUp";
-
+import Home from './Components/Pages/Home';
+import Buy from './Components/Pages/Buy';
+import Sell from './Components/Pages/Sell';
+import Creator from './Components/Pages/Creator';
+import SignUp from './Components/Pages/SignUp'
+import SignIn from './Components/Pages/SignIn';
 function App() {
   return (
     <BrowserRouter>
@@ -20,6 +20,7 @@ function App() {
         <Route path="/sell" exact component={Sell} />
         <Route path="/creator" exact component={Creator} />
         <Route path="/sign-up" exact component={SignUp} />
+        <Route path="/sign-in" exact component={SignIn} />
       </Switch>
     </BrowserRouter>
   );

@@ -22,7 +22,7 @@ const Navbar = () => {
           <NavLink className="poppins" to="/sign-up">
             Sign-Up
           </NavLink>
-          <NavBtnLink className="poppins" to="/signin">
+          <NavBtnLink className="poppins" to="/sign-in">
             Sign In
           </NavBtnLink>
         </NavMenu>
