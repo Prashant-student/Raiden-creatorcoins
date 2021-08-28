@@ -19,10 +19,10 @@ const Navbar = () => {
           <NavLink className="poppins" to="/creator">
             Creator
           </NavLink>
-          <NavLink className="poppins" to="/sign-up">
+          <NavLink className="poppins" to="/Signup">
             Sign-Up
           </NavLink>
-          <NavBtnLink className="poppins" to="/signin">
+          <NavBtnLink className="poppins" to="/sign-in">
             Sign In
           </NavBtnLink>
         </NavMenu>
