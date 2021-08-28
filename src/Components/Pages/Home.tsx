@@ -8,6 +8,7 @@ import DenseTable from "../UI/Table";
 import Container from "@material-ui/core/Container";
 import Box from "@material-ui/core/Box";
 import { Grid } from "@material-ui/core";
+import { Link } from "react-router-dom";
 
 const hero_img = sitting;
 
@@ -37,10 +38,16 @@ const Home = () => {
         </div>
         <div className={classes.btns}>
           <Button className={classes.btn} variant="contained" color="primary">
-            Buy
+            <Link to="/buyerSignUp" style ={{
+              textDecoration:"none",
+              color:"white",
+            }}>
+              Buyer
+            </Link>
+
           </Button>
           <Button className={classes.btn} variant="contained" color="primary">
-            Create
+            Creator
           </Button>
         </div>
         <div className={classes.para2}>

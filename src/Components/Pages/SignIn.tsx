@@ -1,7 +1,8 @@
 import { Container } from '@material-ui/core';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import SignUp from './SignUp';
+import SignUp from './creatorSignUp';
+import "./SignIn.css"
 
 const SignIn = () => {
   const [values, setValues] = useState({
