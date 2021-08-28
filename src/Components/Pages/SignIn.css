@@ -23,7 +23,7 @@
   .gridChild1{
     padding-top: 50px;
     padding-bottom: 0px;
-    color: white;
+    color: cyan;
     font-size: xx-large;
     text-align: center;  
     border-radius: 15px;
@@ -31,11 +31,11 @@
   .Raiden{
     font-size: 150px;
     padding-top: 0px;
-    color: white;
+    color: cyan;
   }
   .newAccount{
     text-align: center;
-    color: white;
+    color: cyan;
     text-decoration: none;
     padding-top: 80px;
   }

@@ -6,7 +6,7 @@
 .childGrid{
   padding-top: 50px;
   padding-bottom: 0px;
-  color: white;
+  color: cyan;
   font-size: xx-large;
   text-align: center;  
   border-radius: 15px;
@@ -19,7 +19,7 @@
 }
 .info{
     text-align: center;
-    color: white;
+    color: cyan;
     padding-top: 100px;
     font-size: xx-large;
     

@@ -14,13 +14,13 @@
   }
   .name,.lastname,.email,.socialcoins,.members,.followers,.platforms,.password {
     padding: 10px;
-    color: white;
+    color: cyan;
   }
   .input{
     padding: 2px 7px;  
     border: none;
     border-bottom: 2px solid black;
-    background-color: white;
+    background-color: rgb(151, 255, 255);
     color: black;
     width: 100%;
   }
