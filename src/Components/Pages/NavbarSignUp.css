@@ -1,7 +1,8 @@
 .containerGrid{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 100px;
+  /* grid-gap: 10px; */
+  align-items: center;
 }
 .childGrid{
   padding-top: 50px;
@@ -11,11 +12,21 @@
   text-align: center;  
   border-radius: 15px;
   margin: 10px;
+  width: max-content;
+  border-radius: 10px;
   
 }
 .NavbarSignUp{
  background-color: black;
  height: 90vh;
+ display: flex;
+ flex-direction: column;
+
+}
+.BtnGrp{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .info{
     text-align: center;
@@ -24,4 +35,9 @@
     font-size: xx-large;
     
 
+}
+.Btn{
+    padding: 10px;
+    border-radius: 10px;
+    width: 10rem;
 }

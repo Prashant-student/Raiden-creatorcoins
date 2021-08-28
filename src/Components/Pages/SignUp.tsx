@@ -12,24 +12,29 @@ const SignUp = () => {
                     <p>Welcom to Raiden</p>
                     <p>Create acc and explore raiden</p>
                 </div>
-                <div className="containerGrid">
+                <div className="BtnGrp">
                     <div className="childGrid">
                         <button style={{
-                            backgroundColor:"cyan"                        
-                        }}>
+                            backgroundColor:"cyan" 
+                            
+                                                   
+                        }} className="Btn">
                             <Link to="buyerSignUp" style={{
                                 color:"black",
                                 textDecoration:"none",
+                                
+                                
                             }}>Buyer</Link>
                         </button>
                     </div>
                     <div className="childGrid">
                     <button style={{
                             backgroundColor:"cyan"
-                        }}>
+                        }} className="Btn">
                             <Link to="CreatorSignUp" style={{
                                 color:"black",
                                 textDecoration:"none",
+                                padding:"10px"
                             }}>Creator</Link>
                         </button>
                     </div>
