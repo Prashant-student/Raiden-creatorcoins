@@ -1,0 +1,10 @@
+.buyBtn {
+  width: 9rem;
+  height: auto;
+  border-radius: 20px;
+  background-color: #ff9b21;
+}
+
+.item {
+  width: 9rem;
+}

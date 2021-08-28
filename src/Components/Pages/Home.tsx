@@ -2,12 +2,10 @@ import React, { Fragment } from "react";
 
 import classes from "./Home.module.css";
 import sitting from "../../assets/images/sitting.svg";
-
 import Button from "@material-ui/core/Button";
-import DenseTable from "../UI/Table";
 import Container from "@material-ui/core/Container";
 import Box from "@material-ui/core/Box";
-import { Grid } from "@material-ui/core";
+import Table from "../UI/Table/Table";
 
 const hero_img = sitting;
 
@@ -57,7 +55,7 @@ const Home = () => {
           <h1>Our Top Creators</h1>
         </div>
         <div>
-          <DenseTable />
+          <Table />
         </div>
       </section>
     </Container>

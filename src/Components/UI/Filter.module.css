@@ -1,0 +1,27 @@
+.searchBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+  height: 20vh;
+}
+
+.search {
+  margin: 30px;
+}
+.sInput {
+  font-weight: 200;
+  padding: 10px;
+  border-radius: 10px;
+  height: 50px;
+  width: 80vw;
+  background-color: rgb(170, 170, 170);
+}
+
+.searchIcon {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}

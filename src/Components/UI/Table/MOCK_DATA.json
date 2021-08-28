@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "coin": "Austen",
+    "creator": "Austen Rawlingson",
+    "supporters": 781,
+    "totalCoins": 72359,
+    "price": 24
+  },
+  {
+    "rank": 2,
+    "coin": "Edvard",
+    "creator": "Edvard Rottenbury",
+    "supporters": 731,
+    "totalCoins": 47782,
+    "price": 23
+  },
+  {
+    "rank": 3,
+    "coin": "Tull",
+    "creator": "Tull Wroath",
+    "supporters": 472,
+    "totalCoins": 92544,
+    "price": 13
+  },
+  {
+    "rank": 4,
+    "coin": "Antonino",
+    "creator": "Antonino Selvester",
+    "supporters": 495,
+    "totalCoins": 99117,
+    "price": 42
+  },
+  {
+    "rank": 5,
+    "coin": "Dody",
+    "creator": "Dody Scotland",
+    "supporters": 445,
+    "totalCoins": 90596,
+    "price": 35
+  },
+  {
+    "rank": 6,
+    "coin": "Abbe",
+    "creator": "Abbe Harroll",
+    "supporters": 890,
+    "totalCoins": 20651,
+    "price": 44
+  },
+  {
+    "rank": 7,
+    "coin": "Nelli",
+    "creator": "Nelli Emerton",
+    "supporters": 674,
+    "totalCoins": 33611,
+    "price": 13
+  },
+  {
+    "rank": 8,
+    "coin": "Boony",
+    "creator": "Boony Engall",
+    "supporters": 683,
+    "totalCoins": 53697,
+    "price": 13
+  },
+  {
+    "rank": 9,
+    "coin": "Adair",
+    "creator": "Adair Filimore",
+    "supporters": 877,
+    "totalCoins": 18124,
+    "price": 45
+  },
+  {
+    "rank": 10,
+    "coin": "Loralee",
+    "creator": "Loralee Cagan",
+    "supporters": 433,
+    "totalCoins": 39385,
+    "price": 9
+  },
+  {
+    "rank": 11,
+    "coin": "Tuckie",
+    "creator": "Tuckie Janata",
+    "supporters": 438,
+    "totalCoins": 49059,
+    "price": 8
+  },
+  {
+    "rank": 12,
+    "coin": "Bary",
+    "creator": "Bary Lythgoe",
+    "supporters": 993,
+    "totalCoins": 26976,
+    "price": 20
+  },
+  {
+    "rank": 13,
+    "coin": "Jsandye",
+    "creator": "Jsandye Comford",
+    "supporters": 794,
+    "totalCoins": 16370,
+    "price": 31
+  },
+  {
+    "rank": 14,
+    "coin": "Jehanna",
+    "creator": "Jehanna Waugh",
+    "supporters": 712,
+    "totalCoins": 30693,
+    "price": 12
+  },
+  {
+    "rank": 15,
+    "coin": "Ruy",
+    "creator": "Ruy Davenhall",
+    "supporters": 848,
+    "totalCoins": 66352,
+    "price": 16
+  },
+  {
+    "rank": 16,
+    "coin": "Shae",
+    "creator": "Shae MacConneely",
+    "supporters": 702,
+    "totalCoins": 66072,
+    "price": 33
+  },
+  {
+    "rank": 17,
+    "coin": "Fairleigh",
+    "creator": "Fairleigh Carnie",
+    "supporters": 618,
+    "totalCoins": 90368,
+    "price": 6
+  },
+  {
+    "rank": 18,
+    "coin": "Alyda",
+    "creator": "Alyda MacCumiskey",
+    "supporters": 510,
+    "totalCoins": 25245,
+    "price": 33
+  },
+  {
+    "rank": 19,
+    "coin": "Anjanette",
+    "creator": "Anjanette Balleine",
+    "supporters": 858,
+    "totalCoins": 42687,
+    "price": 22
+  },
+  {
+    "rank": 20,
+    "coin": "Nefen",
+    "creator": "Nefen Datte",
+    "supporters": 559,
+    "totalCoins": 18401,
+    "price": 35
+  },
+  {
+    "rank": 21,
+    "coin": "Ardyce",
+    "creator": "Ardyce Flello",
+    "supporters": 454,
+    "totalCoins": 64339,
+    "price": 13
+  },
+  {
+    "rank": 22,
+    "coin": "Berenice",
+    "creator": "Berenice De Andreis",
+    "supporters": 676,
+    "totalCoins": 15121,
+    "price": 19
+  },
+  {
+    "rank": 23,
+    "coin": "Christan",
+    "creator": "Christan Scotts",
+    "supporters": 973,
+    "totalCoins": 75483,
+    "price": 44
+  },
+  {
+    "rank": 24,
+    "coin": "Adah",
+    "creator": "Adah Cuppitt",
+    "supporters": 403,
+    "totalCoins": 95091,
+    "price": 18
+  },
+  {
+    "rank": 25,
+    "coin": "Demetris",
+    "creator": "Demetris Chopping",
+    "supporters": 434,
+    "totalCoins": 57505,
+    "price": 43
+  },
+  {
+    "rank": 26,
+    "coin": "Colver",
+    "creator": "Colver Ruecastle",
+    "supporters": 584,
+    "totalCoins": 57181,
+    "price": 38
+  },
+  {
+    "rank": 27,
+    "coin": "Wallache",
+    "creator": "Wallache Wilkennson",
+    "supporters": 756,
+    "totalCoins": 96486,
+    "price": 44
+  },
+  {
+    "rank": 28,
+    "coin": "Geoffrey",
+    "creator": "Geoffrey Chimenti",
+    "supporters": 940,
+    "totalCoins": 52930,
+    "price": 7
+  },
+  {
+    "rank": 29,
+    "coin": "Jeane",
+    "creator": "Jeane Cholonin",
+    "supporters": 647,
+    "totalCoins": 93779,
+    "price": 12
+  },
+  {
+    "rank": 30,
+    "coin": "Vyky",
+    "creator": "Vyky Lattimer",
+    "supporters": 811,
+    "totalCoins": 86027,
+    "price": 9
+  },
+  {
+    "rank": 31,
+    "coin": "Wilona",
+    "creator": "Wilona Haggie",
+    "supporters": 948,
+    "totalCoins": 65686,
+    "price": 34
+  },
+  {
+    "rank": 32,
+    "coin": "Alli",
+    "creator": "Alli Rosenwasser",
+    "supporters": 781,
+    "totalCoins": 27194,
+    "price": 26
+  },
+  {
+    "rank": 33,
+    "coin": "Hadleigh",
+    "creator": "Hadleigh Lebbern",
+    "supporters": 925,
+    "totalCoins": 22444,
+    "price": 38
+  },
+  {
+    "rank": 34,
+    "coin": "Lucina",
+    "creator": "Lucina Ticic",
+    "supporters": 486,
+    "totalCoins": 82139,
+    "price": 18
+  },
+  {
+    "rank": 35,
+    "coin": "Joy",
+    "creator": "Joy Gronowe",
+    "supporters": 520,
+    "totalCoins": 93470,
+    "price": 48
+  },
+  {
+    "rank": 36,
+    "coin": "Lurette",
+    "creator": "Lurette Pezey",
+    "supporters": 861,
+    "totalCoins": 99064,
+    "price": 29
+  },
+  {
+    "rank": 37,
+    "coin": "Rosene",
+    "creator": "Rosene Marxsen",
+    "supporters": 440,
+    "totalCoins": 81953,
+    "price": 30
+  },
+  {
+    "rank": 38,
+    "coin": "Elset",
+    "creator": "Elset Pally",
+    "supporters": 963,
+    "totalCoins": 86772,
+    "price": 30
+  },
+  {
+    "rank": 39,
+    "coin": "Beulah",
+    "creator": "Beulah Maldin",
+    "supporters": 725,
+    "totalCoins": 10310,
+    "price": 12
+  },
+  {
+    "rank": 40,
+    "coin": "Randy",
+    "creator": "Randy Hobgen",
+    "supporters": 430,
+    "totalCoins": 35815,
+    "price": 36
+  },
+  {
+    "rank": 41,
+    "coin": "Dedie",
+    "creator": "Dedie Shreeves",
+    "supporters": 550,
+    "totalCoins": 72180,
+    "price": 22
+  },
+  {
+    "rank": 42,
+    "coin": "Farr",
+    "creator": "Farr Waber",
+    "supporters": 897,
+    "totalCoins": 37222,
+    "price": 8
+  },
+  {
+    "rank": 43,
+    "coin": "Gustavo",
+    "creator": "Gustavo Impey",
+    "supporters": 846,
+    "totalCoins": 42022,
+    "price": 18
+  },
+  {
+    "rank": 44,
+    "coin": "Rice",
+    "creator": "Rice Dondon",
+    "supporters": 906,
+    "totalCoins": 98053,
+    "price": 39
+  },
+  {
+    "rank": 45,
+    "coin": "Roi",
+    "creator": "Roi Seton",
+    "supporters": 730,
+    "totalCoins": 16330,
+    "price": 45
+  },
+  {
+    "rank": 46,
+    "coin": "Yetty",
+    "creator": "Yetty Rulten",
+    "supporters": 563,
+    "totalCoins": 33436,
+    "price": 24
+  },
+  {
+    "rank": 47,
+    "coin": "Danie",
+    "creator": "Danie Manger",
+    "supporters": 538,
+    "totalCoins": 24726,
+    "price": 10
+  },
+  {
+    "rank": 48,
+    "coin": "Carolan",
+    "creator": "Carolan Seneschal",
+    "supporters": 790,
+    "totalCoins": 21068,
+    "price": 18
+  },
+  {
+    "rank": 49,
+    "coin": "Florentia",
+    "creator": "Florentia Gartin",
+    "supporters": 980,
+    "totalCoins": 96515,
+    "price": 36
+  },
+  {
+    "rank": 50,
+    "coin": "Randi",
+    "creator": "Randi Lovelock",
+    "supporters": 564,
+    "totalCoins": 15846,
+    "price": 38
+  }
+]
