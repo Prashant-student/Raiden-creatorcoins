@@ -8,10 +8,12 @@ import React from "react";
 //   Button,
 // } from "@material-ui/core";
 
-import classes from "./Buy.module.css";
-import Table from "../UI/Table/Table";
-import SortTable from "../UI/Table/SortTable";
+// import classes from "./Buy.module.css";
+// import Table from "../UI/Table/Table";
+// import SortTable from "../UI/Table/SortTable";
 import FilteringTable from "../UI/Table/FilteringTable";
+// import PaginationTable from "../UI/Table/PaginationTable";
+
 const Buy = () => {
   return (
     <main>

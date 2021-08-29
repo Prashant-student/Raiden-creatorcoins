@@ -19,13 +19,25 @@ table tr:nth-child(odd) {
 }
 
 table tr:hover {
-  background-color: #ddd;
+  background-color: white;
 }
 
 table th,
 tfoot td {
   padding-top: 12px;
   padding-bottom: 12px;
-  background-color: #04aa6d;
+  background-color: #3b91d8;
   color: white;
+}
+
+#PageOp {
+  text-align: center;
+  padding-top: 15px;
+}
+#PageOp > button {
+  border-color: #15cdfc;
+  background-color: lightblue;
+  border-radius: 5px;
+  padding: 5px;
+  width: min-content;
 }

@@ -1,0 +1,75 @@
+.buyDetail {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+  padding: 1.5rem;
+  color: #f3f5f3;
+}
+
+/*///////////////////////////////*/
+.creatorInfo {
+
+  display: flex;
+  grid-column: 1/4;
+  grid-row: 1/4;
+  margin-bottom: 2rem;
+  padding-right: 20px;
+  margin-right: 20px;
+
+  
+}
+.profileImg {
+ 
+  border-radius: 0.3rem;
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 15rem;
+  width: 12rem;
+}
+.creatorDetails {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.creatorDetails > p,
+h1 {
+  padding-left: 10px;
+  text-align: justify;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  padding-left: 3rem;
+}
+
+.socials > span {
+  margin-right: 3rem;
+}
+
+/*/ //////////////////////////////*/
+.analytics {
+  padding: 1rem;
+  grid-row: 5/9;
+  grid-column: 1/4;
+  background-color: #f3f5f3;
+
+  margin-right: 20px;
+}
+
+/*///////////////////////////////*/
+.activity {
+  margin-left: 10px;
+ 
+  grid-column: 4/6;
+  grid-row: 1/5;
+  background-color: #f3f5f3;
+}
+
+/*/ //////////////////////////////*/
+.buyOptions {
+  margin-left: 10px;
+
+  background-color: #f3f5f3;
+  grid-column: 4/6;
+  grid-row: 6/9;
+}

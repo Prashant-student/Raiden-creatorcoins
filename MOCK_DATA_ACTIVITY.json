@@ -1,0 +1,22 @@
+[
+  { "transaction": true, "amount": 5.79, "time_date": "3/8/2021" },
+  { "transaction": true, "amount": 28.66, "time_date": "12/8/2020" },
+  { "transaction": false, "amount": 27.0, "time_date": "1/1/2021" },
+  { "transaction": true, "amount": 44.62, "time_date": "10/27/2020" },
+  { "transaction": true, "amount": 81.15, "time_date": "6/24/2021" },
+  { "transaction": true, "amount": 66.61, "time_date": "10/14/2020" },
+  { "transaction": false, "amount": 95.23, "time_date": "3/19/2021" },
+  { "transaction": true, "amount": 84.23, "time_date": "6/15/2021" },
+  { "transaction": false, "amount": 60.16, "time_date": "12/7/2020" },
+  { "transaction": false, "amount": 1.42, "time_date": "12/23/2020" },
+  { "transaction": false, "amount": 65.24, "time_date": "10/12/2020" },
+  { "transaction": false, "amount": 97.96, "time_date": "12/24/2020" },
+  { "transaction": true, "amount": 19.4, "time_date": "3/19/2021" },
+  { "transaction": false, "amount": 54.33, "time_date": "9/29/2020" },
+  { "transaction": true, "amount": 11.49, "time_date": "9/26/2020" },
+  { "transaction": true, "amount": 71.56, "time_date": "10/7/2020" },
+  { "transaction": false, "amount": 89.2, "time_date": "2/19/2021" },
+  { "transaction": false, "amount": 50.75, "time_date": "8/30/2021" },
+  { "transaction": false, "amount": 59.81, "time_date": "2/26/2021" },
+  { "transaction": false, "amount": 75.16, "time_date": "11/28/2020" }
+]

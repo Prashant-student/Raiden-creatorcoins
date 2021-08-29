@@ -1,12 +1,10 @@
-import React, { Fragment } from "react";
+import React from "react";
 
 import classes from "./Home.module.css";
 import sitting from "../../assets/images/sitting.svg";
 import Button from "@material-ui/core/Button";
 import Container from "@material-ui/core/Container";
-import Box from "@material-ui/core/Box";
-import Table from "../UI/Table/Table";
-import { Grid } from "@material-ui/core";
+import TopRanking from "../UI/Table/TopRanking";
 import { Link } from "react-router-dom";
 
 const hero_img = sitting;
@@ -17,9 +15,7 @@ const Home = () => {
       <section className={classes.hero}>
         <div className={classes.text}>
           <p className={classes.para}>
-            <a className="playfair" href="#">
-              Raiden
-            </a>{" "}
+            <span className="playfair">Raiden </span>
             is blockchain infrastructure for social money.
           </p>
         </div>
@@ -41,7 +37,6 @@ const Home = () => {
               to="/buyerSignUp"
               style={{
                 textDecoration: "none",
-                color: "white",
               }}
             >
               Buyer
@@ -65,7 +60,7 @@ const Home = () => {
           <h1>Our Top Creators</h1>
         </div>
         <div>
-          <Table />
+          <TopRanking />
         </div>
       </section>
     </Container>
