@@ -6,15 +6,13 @@ table {
 
 table td,
 table th {
-  text-align: center;
+  text-align: start;
   font-size: 20px;
+
   padding: 8px;
 }
 
-table tr:nth-child(even) {
-  background-color: lightblue;
-}
-table tr:nth-child(odd) {
+table tr {
   background-color: lightcyan;
 }
 

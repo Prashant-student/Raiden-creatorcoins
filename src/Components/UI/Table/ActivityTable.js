@@ -1,12 +1,11 @@
 import React, { useMemo } from "react";
+
 import { useTable, usePagination, useGlobalFilter } from "react-table";
-import MOCK_DATA from "./MOCK_DATA.json";
-import { COLUMNS } from "./Columns";
+import MOCK_DATA from "./MOCK_DATA_ACTIVITY.json";
+import { COLUMNS } from "./AColumns";
+import "./ActivityTable.css";
 
-import "./Table.css";
-
-const TopRanking = () => {
-  //prevents from rendering the logic every after reload
+const ActivityTable = () => {
   const columns = useMemo(() => COLUMNS, []);
   const data = useMemo(() => MOCK_DATA, []);
 
@@ -51,4 +50,4 @@ const TopRanking = () => {
   );
 };
 
-export default TopRanking;
+export default ActivityTable;

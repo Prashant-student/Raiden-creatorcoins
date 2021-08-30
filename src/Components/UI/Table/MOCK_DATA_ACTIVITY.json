@@ -1,0 +1,5807 @@
+[
+  {
+    "num": 704,
+    "transaction": "Convert",
+    "amount": 93.94,
+    "time_date": "12/28/2020"
+  },
+  {
+    "num": 25,
+    "transaction": "Buy",
+    "amount": 80.99,
+    "time_date": "10/27/2020"
+  },
+  {
+    "num": 525,
+    "transaction": "Buy",
+    "amount": 41.59,
+    "time_date": "4/2/2021"
+  },
+  {
+    "num": 70,
+    "transaction": "Convert",
+    "amount": 17.9,
+    "time_date": "12/22/2020"
+  },
+  {
+    "num": 866,
+    "transaction": "Convert",
+    "amount": 32.13,
+    "time_date": "9/13/2020"
+  },
+  {
+    "num": 430,
+    "transaction": "Convert",
+    "amount": 65.56,
+    "time_date": "12/30/2020"
+  },
+  {
+    "num": 16,
+    "transaction": "Convert",
+    "amount": 22.17,
+    "time_date": "1/23/2021"
+  },
+  {
+    "num": 261,
+    "transaction": "Buy",
+    "amount": 92.86,
+    "time_date": "8/11/2021"
+  },
+  {
+    "num": 220,
+    "transaction": "Convert",
+    "amount": 75.84,
+    "time_date": "3/14/2021"
+  },
+  {
+    "num": 80,
+    "transaction": "Convert",
+    "amount": 29.76,
+    "time_date": "5/4/2021"
+  },
+  {
+    "num": 732,
+    "transaction": "Convert",
+    "amount": 80.23,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 186,
+    "transaction": "Convert",
+    "amount": 11.77,
+    "time_date": "2/1/2021"
+  },
+  {
+    "num": 454,
+    "transaction": "Convert",
+    "amount": 76.56,
+    "time_date": "8/17/2021"
+  },
+  {
+    "num": 381,
+    "transaction": "Buy",
+    "amount": 52.55,
+    "time_date": "2/12/2021"
+  },
+  {
+    "num": 166,
+    "transaction": "Convert",
+    "amount": 83.85,
+    "time_date": "3/2/2021"
+  },
+  {
+    "num": 455,
+    "transaction": "Buy",
+    "amount": 39.43,
+    "time_date": "7/19/2021"
+  },
+  {
+    "num": 481,
+    "transaction": "Buy",
+    "amount": 86.69,
+    "time_date": "4/27/2021"
+  },
+  {
+    "num": 500,
+    "transaction": "Convert",
+    "amount": 69.44,
+    "time_date": "6/22/2021"
+  },
+  {
+    "num": 590,
+    "transaction": "Convert",
+    "amount": 23.51,
+    "time_date": "9/17/2020"
+  },
+  {
+    "num": 390,
+    "transaction": "Convert",
+    "amount": 7.6,
+    "time_date": "4/3/2021"
+  },
+  {
+    "num": 375,
+    "transaction": "Buy",
+    "amount": 8.02,
+    "time_date": "4/16/2021"
+  },
+  {
+    "num": 809,
+    "transaction": "Buy",
+    "amount": 80.78,
+    "time_date": "2/13/2021"
+  },
+  {
+    "num": 942,
+    "transaction": "Convert",
+    "amount": 22.31,
+    "time_date": "2/9/2021"
+  },
+  {
+    "num": 354,
+    "transaction": "Convert",
+    "amount": 34.71,
+    "time_date": "8/26/2021"
+  },
+  {
+    "num": 188,
+    "transaction": "Convert",
+    "amount": 49.21,
+    "time_date": "5/14/2021"
+  },
+  {
+    "num": 834,
+    "transaction": "Convert",
+    "amount": 14.12,
+    "time_date": "1/10/2021"
+  },
+  {
+    "num": 619,
+    "transaction": "Buy",
+    "amount": 31.51,
+    "time_date": "1/2/2021"
+  },
+  {
+    "num": 249,
+    "transaction": "Buy",
+    "amount": 68.66,
+    "time_date": "12/19/2020"
+  },
+  {
+    "num": 254,
+    "transaction": "Convert",
+    "amount": 17.17,
+    "time_date": "9/2/2020"
+  },
+  {
+    "num": 682,
+    "transaction": "Convert",
+    "amount": 65.94,
+    "time_date": "12/12/2020"
+  },
+  {
+    "num": 71,
+    "transaction": "Buy",
+    "amount": 80.43,
+    "time_date": "9/10/2020"
+  },
+  {
+    "num": 600,
+    "transaction": "Convert",
+    "amount": 40.51,
+    "time_date": "5/25/2021"
+  },
+  {
+    "num": 859,
+    "transaction": "Buy",
+    "amount": 47.81,
+    "time_date": "1/29/2021"
+  },
+  { "num": 701, "transaction": "Buy", "amount": 2.21, "time_date": "5/7/2021" },
+  {
+    "num": 389,
+    "transaction": "Buy",
+    "amount": 25.58,
+    "time_date": "7/31/2021"
+  },
+  {
+    "num": 913,
+    "transaction": "Buy",
+    "amount": 14.46,
+    "time_date": "10/20/2020"
+  },
+  {
+    "num": 20,
+    "transaction": "Convert",
+    "amount": 10.47,
+    "time_date": "12/19/2020"
+  },
+  {
+    "num": 72,
+    "transaction": "Convert",
+    "amount": 25.01,
+    "time_date": "2/21/2021"
+  },
+  {
+    "num": 264,
+    "transaction": "Convert",
+    "amount": 20.51,
+    "time_date": "7/27/2021"
+  },
+  {
+    "num": 366,
+    "transaction": "Convert",
+    "amount": 1.73,
+    "time_date": "8/16/2021"
+  },
+  {
+    "num": 664,
+    "transaction": "Convert",
+    "amount": 65.43,
+    "time_date": "5/4/2021"
+  },
+  {
+    "num": 601,
+    "transaction": "Buy",
+    "amount": 6.96,
+    "time_date": "4/12/2021"
+  },
+  {
+    "num": 702,
+    "transaction": "Convert",
+    "amount": 86.51,
+    "time_date": "2/8/2021"
+  },
+  {
+    "num": 592,
+    "transaction": "Convert",
+    "amount": 48.33,
+    "time_date": "5/14/2021"
+  },
+  { "num": 335, "transaction": "Buy", "amount": 85.4, "time_date": "1/9/2021" },
+  {
+    "num": 968,
+    "transaction": "Convert",
+    "amount": 71.94,
+    "time_date": "7/29/2021"
+  },
+  {
+    "num": 322,
+    "transaction": "Convert",
+    "amount": 19.13,
+    "time_date": "11/8/2020"
+  },
+  {
+    "num": 444,
+    "transaction": "Convert",
+    "amount": 97.66,
+    "time_date": "12/8/2020"
+  },
+  {
+    "num": 411,
+    "transaction": "Buy",
+    "amount": 46.78,
+    "time_date": "5/22/2021"
+  },
+  {
+    "num": 835,
+    "transaction": "Buy",
+    "amount": 10.07,
+    "time_date": "12/10/2020"
+  },
+  {
+    "num": 545,
+    "transaction": "Buy",
+    "amount": 65.84,
+    "time_date": "11/1/2020"
+  },
+  {
+    "num": 953,
+    "transaction": "Buy",
+    "amount": 90.47,
+    "time_date": "2/3/2021"
+  },
+  {
+    "num": 790,
+    "transaction": "Convert",
+    "amount": 81.78,
+    "time_date": "9/1/2020"
+  },
+  {
+    "num": 738,
+    "transaction": "Convert",
+    "amount": 60.51,
+    "time_date": "12/16/2020"
+  },
+  {
+    "num": 556,
+    "transaction": "Convert",
+    "amount": 7.91,
+    "time_date": "10/24/2020"
+  },
+  {
+    "num": 906,
+    "transaction": "Convert",
+    "amount": 28.97,
+    "time_date": "2/18/2021"
+  },
+  {
+    "num": 379,
+    "transaction": "Buy",
+    "amount": 48.53,
+    "time_date": "9/25/2020"
+  },
+  {
+    "num": 702,
+    "transaction": "Convert",
+    "amount": 98.13,
+    "time_date": "12/26/2020"
+  },
+  {
+    "num": 241,
+    "transaction": "Buy",
+    "amount": 72.66,
+    "time_date": "1/1/2021"
+  },
+  {
+    "num": 74,
+    "transaction": "Convert",
+    "amount": 17.62,
+    "time_date": "3/20/2021"
+  },
+  {
+    "num": 555,
+    "transaction": "Buy",
+    "amount": 76.98,
+    "time_date": "12/29/2020"
+  },
+  {
+    "num": 608,
+    "transaction": "Convert",
+    "amount": 35.84,
+    "time_date": "1/26/2021"
+  },
+  {
+    "num": 354,
+    "transaction": "Convert",
+    "amount": 69.03,
+    "time_date": "9/24/2020"
+  },
+  { "num": 5, "transaction": "Buy", "amount": 94.53, "time_date": "9/8/2020" },
+  {
+    "num": 516,
+    "transaction": "Convert",
+    "amount": 44.36,
+    "time_date": "1/2/2021"
+  },
+  {
+    "num": 87,
+    "transaction": "Buy",
+    "amount": 45.45,
+    "time_date": "6/19/2021"
+  },
+  {
+    "num": 767,
+    "transaction": "Buy",
+    "amount": 30.3,
+    "time_date": "12/30/2020"
+  },
+  {
+    "num": 56,
+    "transaction": "Convert",
+    "amount": 5.22,
+    "time_date": "6/10/2021"
+  },
+  {
+    "num": 64,
+    "transaction": "Convert",
+    "amount": 83.77,
+    "time_date": "1/27/2021"
+  },
+  {
+    "num": 30,
+    "transaction": "Convert",
+    "amount": 55.38,
+    "time_date": "1/3/2021"
+  },
+  {
+    "num": 306,
+    "transaction": "Convert",
+    "amount": 90.66,
+    "time_date": "10/2/2020"
+  },
+  {
+    "num": 32,
+    "transaction": "Convert",
+    "amount": 27.57,
+    "time_date": "3/29/2021"
+  },
+  {
+    "num": 208,
+    "transaction": "Convert",
+    "amount": 11.02,
+    "time_date": "4/6/2021"
+  },
+  {
+    "num": 485,
+    "transaction": "Buy",
+    "amount": 31.88,
+    "time_date": "10/14/2020"
+  },
+  {
+    "num": 705,
+    "transaction": "Buy",
+    "amount": 38.15,
+    "time_date": "8/3/2021"
+  },
+  {
+    "num": 235,
+    "transaction": "Buy",
+    "amount": 57.41,
+    "time_date": "4/24/2021"
+  },
+  {
+    "num": 207,
+    "transaction": "Buy",
+    "amount": 32.85,
+    "time_date": "7/12/2021"
+  },
+  {
+    "num": 742,
+    "transaction": "Convert",
+    "amount": 68.0,
+    "time_date": "4/1/2021"
+  },
+  {
+    "num": 639,
+    "transaction": "Buy",
+    "amount": 10.69,
+    "time_date": "9/11/2020"
+  },
+  {
+    "num": 905,
+    "transaction": "Buy",
+    "amount": 13.27,
+    "time_date": "7/23/2021"
+  },
+  {
+    "num": 980,
+    "transaction": "Convert",
+    "amount": 89.51,
+    "time_date": "1/26/2021"
+  },
+  {
+    "num": 190,
+    "transaction": "Convert",
+    "amount": 91.85,
+    "time_date": "5/31/2021"
+  },
+  {
+    "num": 606,
+    "transaction": "Convert",
+    "amount": 54.99,
+    "time_date": "10/28/2020"
+  },
+  {
+    "num": 17,
+    "transaction": "Buy",
+    "amount": 40.47,
+    "time_date": "10/7/2020"
+  },
+  {
+    "num": 34,
+    "transaction": "Convert",
+    "amount": 19.53,
+    "time_date": "8/4/2021"
+  },
+  {
+    "num": 734,
+    "transaction": "Convert",
+    "amount": 14.57,
+    "time_date": "12/23/2020"
+  },
+  {
+    "num": 703,
+    "transaction": "Buy",
+    "amount": 35.44,
+    "time_date": "10/30/2020"
+  },
+  {
+    "num": 205,
+    "transaction": "Buy",
+    "amount": 48.99,
+    "time_date": "1/16/2021"
+  },
+  { "num": 151, "transaction": "Buy", "amount": 2.68, "time_date": "6/9/2021" },
+  {
+    "num": 145,
+    "transaction": "Buy",
+    "amount": 74.95,
+    "time_date": "11/3/2020"
+  },
+  {
+    "num": 594,
+    "transaction": "Convert",
+    "amount": 14.91,
+    "time_date": "3/28/2021"
+  },
+  {
+    "num": 976,
+    "transaction": "Convert",
+    "amount": 91.61,
+    "time_date": "11/5/2020"
+  },
+  {
+    "num": 31,
+    "transaction": "Buy",
+    "amount": 52.69,
+    "time_date": "9/12/2020"
+  },
+  {
+    "num": 401,
+    "transaction": "Buy",
+    "amount": 20.93,
+    "time_date": "12/4/2020"
+  },
+  {
+    "num": 281,
+    "transaction": "Buy",
+    "amount": 53.95,
+    "time_date": "7/21/2021"
+  },
+  {
+    "num": 327,
+    "transaction": "Buy",
+    "amount": 86.09,
+    "time_date": "5/25/2021"
+  },
+  {
+    "num": 888,
+    "transaction": "Convert",
+    "amount": 11.39,
+    "time_date": "3/15/2021"
+  },
+  {
+    "num": 298,
+    "transaction": "Convert",
+    "amount": 81.95,
+    "time_date": "10/13/2020"
+  },
+  { "num": 53, "transaction": "Buy", "amount": 40.2, "time_date": "4/12/2021" },
+  {
+    "num": 325,
+    "transaction": "Buy",
+    "amount": 51.07,
+    "time_date": "12/29/2020"
+  },
+  {
+    "num": 365,
+    "transaction": "Buy",
+    "amount": 69.82,
+    "time_date": "7/29/2021"
+  },
+  {
+    "num": 84,
+    "transaction": "Convert",
+    "amount": 60.0,
+    "time_date": "3/10/2021"
+  },
+  {
+    "num": 823,
+    "transaction": "Buy",
+    "amount": 93.54,
+    "time_date": "12/7/2020"
+  },
+  {
+    "num": 496,
+    "transaction": "Convert",
+    "amount": 95.58,
+    "time_date": "3/28/2021"
+  },
+  {
+    "num": 199,
+    "transaction": "Buy",
+    "amount": 12.42,
+    "time_date": "3/24/2021"
+  },
+  {
+    "num": 438,
+    "transaction": "Convert",
+    "amount": 3.83,
+    "time_date": "9/19/2020"
+  },
+  {
+    "num": 885,
+    "transaction": "Buy",
+    "amount": 49.72,
+    "time_date": "1/6/2021"
+  },
+  {
+    "num": 255,
+    "transaction": "Buy",
+    "amount": 90.59,
+    "time_date": "12/25/2020"
+  },
+  {
+    "num": 820,
+    "transaction": "Convert",
+    "amount": 51.22,
+    "time_date": "6/12/2021"
+  },
+  {
+    "num": 372,
+    "transaction": "Convert",
+    "amount": 23.01,
+    "time_date": "4/22/2021"
+  },
+  {
+    "num": 211,
+    "transaction": "Buy",
+    "amount": 63.85,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 337,
+    "transaction": "Buy",
+    "amount": 71.44,
+    "time_date": "11/6/2020"
+  },
+  {
+    "num": 227,
+    "transaction": "Buy",
+    "amount": 97.26,
+    "time_date": "8/5/2021"
+  },
+  {
+    "num": 417,
+    "transaction": "Buy",
+    "amount": 12.56,
+    "time_date": "4/29/2021"
+  },
+  {
+    "num": 91,
+    "transaction": "Buy",
+    "amount": 23.51,
+    "time_date": "12/30/2020"
+  },
+  {
+    "num": 793,
+    "transaction": "Buy",
+    "amount": 4.23,
+    "time_date": "2/19/2021"
+  },
+  {
+    "num": 376,
+    "transaction": "Convert",
+    "amount": 79.03,
+    "time_date": "2/7/2021"
+  },
+  {
+    "num": 571,
+    "transaction": "Buy",
+    "amount": 34.39,
+    "time_date": "8/7/2021"
+  },
+  {
+    "num": 151,
+    "transaction": "Buy",
+    "amount": 97.55,
+    "time_date": "7/14/2021"
+  },
+  {
+    "num": 489,
+    "transaction": "Buy",
+    "amount": 11.88,
+    "time_date": "12/30/2020"
+  },
+  {
+    "num": 137,
+    "transaction": "Buy",
+    "amount": 66.43,
+    "time_date": "6/26/2021"
+  },
+  {
+    "num": 787,
+    "transaction": "Buy",
+    "amount": 60.99,
+    "time_date": "2/18/2021"
+  },
+  {
+    "num": 365,
+    "transaction": "Buy",
+    "amount": 84.89,
+    "time_date": "11/14/2020"
+  },
+  {
+    "num": 492,
+    "transaction": "Convert",
+    "amount": 48.91,
+    "time_date": "1/24/2021"
+  },
+  {
+    "num": 681,
+    "transaction": "Buy",
+    "amount": 46.86,
+    "time_date": "9/17/2020"
+  },
+  {
+    "num": 750,
+    "transaction": "Convert",
+    "amount": 27.56,
+    "time_date": "11/23/2020"
+  },
+  {
+    "num": 538,
+    "transaction": "Convert",
+    "amount": 98.6,
+    "time_date": "7/20/2021"
+  },
+  {
+    "num": 284,
+    "transaction": "Convert",
+    "amount": 98.57,
+    "time_date": "2/17/2021"
+  },
+  {
+    "num": 968,
+    "transaction": "Convert",
+    "amount": 67.78,
+    "time_date": "5/31/2021"
+  },
+  {
+    "num": 962,
+    "transaction": "Convert",
+    "amount": 7.84,
+    "time_date": "9/27/2020"
+  },
+  {
+    "num": 867,
+    "transaction": "Buy",
+    "amount": 10.49,
+    "time_date": "3/1/2021"
+  },
+  {
+    "num": 426,
+    "transaction": "Convert",
+    "amount": 1.97,
+    "time_date": "9/19/2020"
+  },
+  {
+    "num": 79,
+    "transaction": "Buy",
+    "amount": 31.35,
+    "time_date": "2/10/2021"
+  },
+  {
+    "num": 307,
+    "transaction": "Buy",
+    "amount": 37.68,
+    "time_date": "5/2/2021"
+  },
+  {
+    "num": 900,
+    "transaction": "Convert",
+    "amount": 20.95,
+    "time_date": "12/5/2020"
+  },
+  {
+    "num": 614,
+    "transaction": "Convert",
+    "amount": 33.13,
+    "time_date": "3/26/2021"
+  },
+  {
+    "num": 705,
+    "transaction": "Buy",
+    "amount": 25.44,
+    "time_date": "11/28/2020"
+  },
+  {
+    "num": 759,
+    "transaction": "Buy",
+    "amount": 72.66,
+    "time_date": "1/18/2021"
+  },
+  {
+    "num": 688,
+    "transaction": "Convert",
+    "amount": 88.27,
+    "time_date": "4/18/2021"
+  },
+  {
+    "num": 483,
+    "transaction": "Buy",
+    "amount": 2.71,
+    "time_date": "10/31/2020"
+  },
+  {
+    "num": 957,
+    "transaction": "Buy",
+    "amount": 17.71,
+    "time_date": "12/16/2020"
+  },
+  {
+    "num": 743,
+    "transaction": "Buy",
+    "amount": 10.11,
+    "time_date": "12/18/2020"
+  },
+  {
+    "num": 946,
+    "transaction": "Convert",
+    "amount": 31.83,
+    "time_date": "12/7/2020"
+  },
+  {
+    "num": 369,
+    "transaction": "Buy",
+    "amount": 30.6,
+    "time_date": "11/16/2020"
+  },
+  {
+    "num": 630,
+    "transaction": "Convert",
+    "amount": 48.03,
+    "time_date": "1/15/2021"
+  },
+  {
+    "num": 127,
+    "transaction": "Buy",
+    "amount": 90.18,
+    "time_date": "4/12/2021"
+  },
+  {
+    "num": 268,
+    "transaction": "Convert",
+    "amount": 17.95,
+    "time_date": "9/15/2020"
+  },
+  {
+    "num": 747,
+    "transaction": "Buy",
+    "amount": 98.17,
+    "time_date": "6/11/2021"
+  },
+  {
+    "num": 984,
+    "transaction": "Convert",
+    "amount": 41.89,
+    "time_date": "12/27/2020"
+  },
+  {
+    "num": 468,
+    "transaction": "Convert",
+    "amount": 35.89,
+    "time_date": "12/8/2020"
+  },
+  {
+    "num": 536,
+    "transaction": "Convert",
+    "amount": 83.83,
+    "time_date": "2/8/2021"
+  },
+  {
+    "num": 665,
+    "transaction": "Buy",
+    "amount": 96.35,
+    "time_date": "5/19/2021"
+  },
+  {
+    "num": 640,
+    "transaction": "Convert",
+    "amount": 25.86,
+    "time_date": "7/24/2021"
+  },
+  {
+    "num": 876,
+    "transaction": "Convert",
+    "amount": 51.91,
+    "time_date": "1/7/2021"
+  },
+  {
+    "num": 611,
+    "transaction": "Buy",
+    "amount": 23.2,
+    "time_date": "10/6/2020"
+  },
+  {
+    "num": 733,
+    "transaction": "Buy",
+    "amount": 80.53,
+    "time_date": "3/31/2021"
+  },
+  {
+    "num": 366,
+    "transaction": "Convert",
+    "amount": 50.73,
+    "time_date": "9/9/2020"
+  },
+  {
+    "num": 680,
+    "transaction": "Convert",
+    "amount": 17.07,
+    "time_date": "9/5/2020"
+  },
+  {
+    "num": 881,
+    "transaction": "Buy",
+    "amount": 89.56,
+    "time_date": "3/13/2021"
+  },
+  {
+    "num": 5,
+    "transaction": "Buy",
+    "amount": 83.53,
+    "time_date": "11/17/2020"
+  },
+  {
+    "num": 512,
+    "transaction": "Convert",
+    "amount": 16.76,
+    "time_date": "4/17/2021"
+  },
+  {
+    "num": 283,
+    "transaction": "Buy",
+    "amount": 41.53,
+    "time_date": "1/6/2021"
+  },
+  {
+    "num": 917,
+    "transaction": "Buy",
+    "amount": 47.15,
+    "time_date": "11/15/2020"
+  },
+  {
+    "num": 939,
+    "transaction": "Buy",
+    "amount": 77.22,
+    "time_date": "7/25/2021"
+  },
+  {
+    "num": 997,
+    "transaction": "Buy",
+    "amount": 98.57,
+    "time_date": "7/16/2021"
+  },
+  {
+    "num": 865,
+    "transaction": "Buy",
+    "amount": 46.42,
+    "time_date": "12/8/2020"
+  },
+  {
+    "num": 262,
+    "transaction": "Convert",
+    "amount": 10.23,
+    "time_date": "3/24/2021"
+  },
+  {
+    "num": 966,
+    "transaction": "Convert",
+    "amount": 89.71,
+    "time_date": "12/24/2020"
+  },
+  {
+    "num": 434,
+    "transaction": "Convert",
+    "amount": 28.15,
+    "time_date": "7/2/2021"
+  },
+  {
+    "num": 34,
+    "transaction": "Convert",
+    "amount": 28.47,
+    "time_date": "11/26/2020"
+  },
+  {
+    "num": 343,
+    "transaction": "Buy",
+    "amount": 33.84,
+    "time_date": "8/29/2021"
+  },
+  {
+    "num": 336,
+    "transaction": "Convert",
+    "amount": 50.51,
+    "time_date": "12/20/2020"
+  },
+  {
+    "num": 825,
+    "transaction": "Buy",
+    "amount": 43.1,
+    "time_date": "4/10/2021"
+  },
+  {
+    "num": 742,
+    "transaction": "Convert",
+    "amount": 18.29,
+    "time_date": "4/19/2021"
+  },
+  {
+    "num": 601,
+    "transaction": "Buy",
+    "amount": 62.07,
+    "time_date": "5/28/2021"
+  },
+  {
+    "num": 681,
+    "transaction": "Buy",
+    "amount": 42.27,
+    "time_date": "8/19/2021"
+  },
+  {
+    "num": 188,
+    "transaction": "Convert",
+    "amount": 13.06,
+    "time_date": "3/9/2021"
+  },
+  {
+    "num": 256,
+    "transaction": "Convert",
+    "amount": 50.28,
+    "time_date": "2/1/2021"
+  },
+  {
+    "num": 623,
+    "transaction": "Buy",
+    "amount": 45.08,
+    "time_date": "7/8/2021"
+  },
+  {
+    "num": 976,
+    "transaction": "Convert",
+    "amount": 15.14,
+    "time_date": "6/9/2021"
+  },
+  {
+    "num": 820,
+    "transaction": "Convert",
+    "amount": 29.14,
+    "time_date": "7/14/2021"
+  },
+  {
+    "num": 244,
+    "transaction": "Convert",
+    "amount": 45.78,
+    "time_date": "9/28/2020"
+  },
+  {
+    "num": 234,
+    "transaction": "Convert",
+    "amount": 51.58,
+    "time_date": "7/14/2021"
+  },
+  {
+    "num": 918,
+    "transaction": "Convert",
+    "amount": 73.39,
+    "time_date": "6/9/2021"
+  },
+  {
+    "num": 466,
+    "transaction": "Convert",
+    "amount": 73.91,
+    "time_date": "8/27/2021"
+  },
+  {
+    "num": 548,
+    "transaction": "Convert",
+    "amount": 26.75,
+    "time_date": "2/10/2021"
+  },
+  {
+    "num": 152,
+    "transaction": "Convert",
+    "amount": 30.09,
+    "time_date": "1/22/2021"
+  },
+  { "num": 363, "transaction": "Buy", "amount": 3.0, "time_date": "7/26/2021" },
+  {
+    "num": 246,
+    "transaction": "Convert",
+    "amount": 72.09,
+    "time_date": "3/31/2021"
+  },
+  {
+    "num": 709,
+    "transaction": "Buy",
+    "amount": 79.26,
+    "time_date": "3/29/2021"
+  },
+  {
+    "num": 517,
+    "transaction": "Buy",
+    "amount": 92.29,
+    "time_date": "8/2/2021"
+  },
+  {
+    "num": 834,
+    "transaction": "Convert",
+    "amount": 10.86,
+    "time_date": "5/11/2021"
+  },
+  {
+    "num": 549,
+    "transaction": "Buy",
+    "amount": 38.95,
+    "time_date": "2/9/2021"
+  },
+  {
+    "num": 894,
+    "transaction": "Convert",
+    "amount": 45.5,
+    "time_date": "10/22/2020"
+  },
+  {
+    "num": 540,
+    "transaction": "Convert",
+    "amount": 2.58,
+    "time_date": "6/18/2021"
+  },
+  {
+    "num": 611,
+    "transaction": "Buy",
+    "amount": 28.5,
+    "time_date": "5/22/2021"
+  },
+  {
+    "num": 814,
+    "transaction": "Convert",
+    "amount": 13.55,
+    "time_date": "7/15/2021"
+  },
+  {
+    "num": 611,
+    "transaction": "Buy",
+    "amount": 46.09,
+    "time_date": "7/19/2021"
+  },
+  {
+    "num": 83,
+    "transaction": "Buy",
+    "amount": 49.02,
+    "time_date": "1/28/2021"
+  },
+  {
+    "num": 79,
+    "transaction": "Buy",
+    "amount": 46.99,
+    "time_date": "11/10/2020"
+  },
+  {
+    "num": 694,
+    "transaction": "Convert",
+    "amount": 37.04,
+    "time_date": "4/14/2021"
+  },
+  {
+    "num": 531,
+    "transaction": "Buy",
+    "amount": 20.31,
+    "time_date": "9/17/2020"
+  },
+  {
+    "num": 938,
+    "transaction": "Convert",
+    "amount": 31.02,
+    "time_date": "1/15/2021"
+  },
+  {
+    "num": 605,
+    "transaction": "Buy",
+    "amount": 3.75,
+    "time_date": "1/22/2021"
+  },
+  {
+    "num": 729,
+    "transaction": "Buy",
+    "amount": 96.5,
+    "time_date": "7/29/2021"
+  },
+  {
+    "num": 772,
+    "transaction": "Convert",
+    "amount": 77.49,
+    "time_date": "10/7/2020"
+  },
+  {
+    "num": 375,
+    "transaction": "Buy",
+    "amount": 66.51,
+    "time_date": "2/8/2021"
+  },
+  {
+    "num": 859,
+    "transaction": "Buy",
+    "amount": 82.57,
+    "time_date": "3/12/2021"
+  },
+  {
+    "num": 937,
+    "transaction": "Buy",
+    "amount": 39.48,
+    "time_date": "3/27/2021"
+  },
+  {
+    "num": 705,
+    "transaction": "Buy",
+    "amount": 84.03,
+    "time_date": "4/8/2021"
+  },
+  {
+    "num": 143,
+    "transaction": "Buy",
+    "amount": 10.54,
+    "time_date": "1/7/2021"
+  },
+  {
+    "num": 239,
+    "transaction": "Buy",
+    "amount": 81.14,
+    "time_date": "5/28/2021"
+  },
+  {
+    "num": 665,
+    "transaction": "Buy",
+    "amount": 16.43,
+    "time_date": "8/6/2021"
+  },
+  {
+    "num": 806,
+    "transaction": "Convert",
+    "amount": 47.24,
+    "time_date": "5/22/2021"
+  },
+  {
+    "num": 557,
+    "transaction": "Buy",
+    "amount": 7.39,
+    "time_date": "5/27/2021"
+  },
+  {
+    "num": 267,
+    "transaction": "Buy",
+    "amount": 67.8,
+    "time_date": "1/15/2021"
+  },
+  {
+    "num": 241,
+    "transaction": "Buy",
+    "amount": 8.71,
+    "time_date": "8/17/2021"
+  },
+  {
+    "num": 575,
+    "transaction": "Buy",
+    "amount": 10.97,
+    "time_date": "10/1/2020"
+  },
+  {
+    "num": 654,
+    "transaction": "Convert",
+    "amount": 81.91,
+    "time_date": "8/18/2021"
+  },
+  {
+    "num": 772,
+    "transaction": "Convert",
+    "amount": 7.56,
+    "time_date": "7/12/2021"
+  },
+  {
+    "num": 77,
+    "transaction": "Buy",
+    "amount": 56.36,
+    "time_date": "5/10/2021"
+  },
+  {
+    "num": 345,
+    "transaction": "Buy",
+    "amount": 84.21,
+    "time_date": "1/14/2021"
+  },
+  {
+    "num": 851,
+    "transaction": "Buy",
+    "amount": 32.18,
+    "time_date": "7/16/2021"
+  },
+  {
+    "num": 841,
+    "transaction": "Buy",
+    "amount": 60.93,
+    "time_date": "1/1/2021"
+  },
+  {
+    "num": 406,
+    "transaction": "Convert",
+    "amount": 74.67,
+    "time_date": "5/4/2021"
+  },
+  {
+    "num": 700,
+    "transaction": "Convert",
+    "amount": 95.14,
+    "time_date": "4/5/2021"
+  },
+  {
+    "num": 643,
+    "transaction": "Buy",
+    "amount": 80.68,
+    "time_date": "8/20/2021"
+  },
+  {
+    "num": 977,
+    "transaction": "Buy",
+    "amount": 6.22,
+    "time_date": "12/7/2020"
+  },
+  {
+    "num": 382,
+    "transaction": "Convert",
+    "amount": 21.45,
+    "time_date": "7/13/2021"
+  },
+  {
+    "num": 205,
+    "transaction": "Buy",
+    "amount": 11.45,
+    "time_date": "1/14/2021"
+  },
+  {
+    "num": 277,
+    "transaction": "Buy",
+    "amount": 81.16,
+    "time_date": "11/12/2020"
+  },
+  {
+    "num": 977,
+    "transaction": "Buy",
+    "amount": 72.27,
+    "time_date": "8/14/2021"
+  },
+  {
+    "num": 975,
+    "transaction": "Buy",
+    "amount": 94.57,
+    "time_date": "6/15/2021"
+  },
+  {
+    "num": 413,
+    "transaction": "Buy",
+    "amount": 29.88,
+    "time_date": "10/29/2020"
+  },
+  {
+    "num": 422,
+    "transaction": "Convert",
+    "amount": 82.59,
+    "time_date": "2/23/2021"
+  },
+  {
+    "num": 909,
+    "transaction": "Buy",
+    "amount": 87.74,
+    "time_date": "4/30/2021"
+  },
+  {
+    "num": 461,
+    "transaction": "Buy",
+    "amount": 2.49,
+    "time_date": "5/16/2021"
+  },
+  {
+    "num": 681,
+    "transaction": "Buy",
+    "amount": 64.13,
+    "time_date": "9/18/2020"
+  },
+  {
+    "num": 501,
+    "transaction": "Buy",
+    "amount": 22.2,
+    "time_date": "2/12/2021"
+  },
+  {
+    "num": 701,
+    "transaction": "Buy",
+    "amount": 34.21,
+    "time_date": "4/18/2021"
+  },
+  {
+    "num": 232,
+    "transaction": "Convert",
+    "amount": 12.01,
+    "time_date": "12/16/2020"
+  },
+  {
+    "num": 634,
+    "transaction": "Convert",
+    "amount": 75.3,
+    "time_date": "7/27/2021"
+  },
+  {
+    "num": 65,
+    "transaction": "Buy",
+    "amount": 94.86,
+    "time_date": "4/23/2021"
+  },
+  {
+    "num": 175,
+    "transaction": "Buy",
+    "amount": 12.65,
+    "time_date": "11/20/2020"
+  },
+  {
+    "num": 967,
+    "transaction": "Buy",
+    "amount": 58.91,
+    "time_date": "12/3/2020"
+  },
+  { "num": 51, "transaction": "Buy", "amount": 75.8, "time_date": "1/1/2021" },
+  {
+    "num": 599,
+    "transaction": "Buy",
+    "amount": 93.15,
+    "time_date": "3/15/2021"
+  },
+  {
+    "num": 844,
+    "transaction": "Convert",
+    "amount": 67.79,
+    "time_date": "1/1/2021"
+  },
+  {
+    "num": 110,
+    "transaction": "Convert",
+    "amount": 18.24,
+    "time_date": "4/10/2021"
+  },
+  {
+    "num": 927,
+    "transaction": "Buy",
+    "amount": 89.05,
+    "time_date": "8/21/2021"
+  },
+  {
+    "num": 928,
+    "transaction": "Convert",
+    "amount": 55.57,
+    "time_date": "9/9/2020"
+  },
+  {
+    "num": 723,
+    "transaction": "Buy",
+    "amount": 79.94,
+    "time_date": "5/31/2021"
+  },
+  {
+    "num": 808,
+    "transaction": "Convert",
+    "amount": 33.9,
+    "time_date": "7/21/2021"
+  },
+  {
+    "num": 572,
+    "transaction": "Convert",
+    "amount": 48.17,
+    "time_date": "1/20/2021"
+  },
+  {
+    "num": 348,
+    "transaction": "Convert",
+    "amount": 39.07,
+    "time_date": "4/19/2021"
+  },
+  {
+    "num": 28,
+    "transaction": "Convert",
+    "amount": 99.85,
+    "time_date": "7/15/2021"
+  },
+  {
+    "num": 427,
+    "transaction": "Buy",
+    "amount": 45.54,
+    "time_date": "3/23/2021"
+  },
+  {
+    "num": 837,
+    "transaction": "Buy",
+    "amount": 4.53,
+    "time_date": "5/25/2021"
+  },
+  {
+    "num": 163,
+    "transaction": "Buy",
+    "amount": 79.14,
+    "time_date": "12/9/2020"
+  },
+  {
+    "num": 500,
+    "transaction": "Convert",
+    "amount": 45.05,
+    "time_date": "6/25/2021"
+  },
+  {
+    "num": 628,
+    "transaction": "Convert",
+    "amount": 25.74,
+    "time_date": "11/13/2020"
+  },
+  {
+    "num": 16,
+    "transaction": "Convert",
+    "amount": 86.33,
+    "time_date": "3/13/2021"
+  },
+  {
+    "num": 282,
+    "transaction": "Convert",
+    "amount": 30.97,
+    "time_date": "6/14/2021"
+  },
+  {
+    "num": 749,
+    "transaction": "Buy",
+    "amount": 72.54,
+    "time_date": "11/4/2020"
+  },
+  {
+    "num": 14,
+    "transaction": "Convert",
+    "amount": 90.11,
+    "time_date": "8/28/2021"
+  },
+  {
+    "num": 520,
+    "transaction": "Convert",
+    "amount": 81.53,
+    "time_date": "6/20/2021"
+  },
+  {
+    "num": 356,
+    "transaction": "Convert",
+    "amount": 2.69,
+    "time_date": "10/9/2020"
+  },
+  {
+    "num": 495,
+    "transaction": "Buy",
+    "amount": 68.1,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 628,
+    "transaction": "Convert",
+    "amount": 3.45,
+    "time_date": "3/18/2021"
+  },
+  { "num": 43, "transaction": "Buy", "amount": 84.06, "time_date": "7/1/2021" },
+  {
+    "num": 943,
+    "transaction": "Buy",
+    "amount": 77.08,
+    "time_date": "6/16/2021"
+  },
+  {
+    "num": 986,
+    "transaction": "Convert",
+    "amount": 23.28,
+    "time_date": "4/26/2021"
+  },
+  {
+    "num": 305,
+    "transaction": "Buy",
+    "amount": 44.82,
+    "time_date": "5/30/2021"
+  },
+  {
+    "num": 921,
+    "transaction": "Buy",
+    "amount": 97.42,
+    "time_date": "12/22/2020"
+  },
+  {
+    "num": 92,
+    "transaction": "Convert",
+    "amount": 78.28,
+    "time_date": "6/13/2021"
+  },
+  {
+    "num": 480,
+    "transaction": "Convert",
+    "amount": 19.23,
+    "time_date": "1/28/2021"
+  },
+  {
+    "num": 364,
+    "transaction": "Convert",
+    "amount": 75.46,
+    "time_date": "7/5/2021"
+  },
+  {
+    "num": 929,
+    "transaction": "Buy",
+    "amount": 49.68,
+    "time_date": "8/17/2021"
+  },
+  {
+    "num": 633,
+    "transaction": "Buy",
+    "amount": 60.22,
+    "time_date": "11/25/2020"
+  },
+  { "num": 5, "transaction": "Buy", "amount": 81.04, "time_date": "8/23/2021" },
+  {
+    "num": 950,
+    "transaction": "Convert",
+    "amount": 71.04,
+    "time_date": "12/2/2020"
+  },
+  {
+    "num": 624,
+    "transaction": "Convert",
+    "amount": 19.51,
+    "time_date": "9/17/2020"
+  },
+  {
+    "num": 751,
+    "transaction": "Buy",
+    "amount": 86.27,
+    "time_date": "1/4/2021"
+  },
+  {
+    "num": 995,
+    "transaction": "Buy",
+    "amount": 69.43,
+    "time_date": "8/13/2021"
+  },
+  {
+    "num": 795,
+    "transaction": "Buy",
+    "amount": 91.16,
+    "time_date": "8/24/2021"
+  },
+  {
+    "num": 171,
+    "transaction": "Buy",
+    "amount": 11.33,
+    "time_date": "4/12/2021"
+  },
+  {
+    "num": 248,
+    "transaction": "Convert",
+    "amount": 89.12,
+    "time_date": "2/28/2021"
+  },
+  {
+    "num": 188,
+    "transaction": "Convert",
+    "amount": 42.61,
+    "time_date": "9/23/2020"
+  },
+  {
+    "num": 424,
+    "transaction": "Convert",
+    "amount": 77.21,
+    "time_date": "1/19/2021"
+  },
+  {
+    "num": 287,
+    "transaction": "Buy",
+    "amount": 57.43,
+    "time_date": "12/14/2020"
+  },
+  {
+    "num": 615,
+    "transaction": "Buy",
+    "amount": 76.8,
+    "time_date": "1/30/2021"
+  },
+  {
+    "num": 141,
+    "transaction": "Buy",
+    "amount": 82.55,
+    "time_date": "7/14/2021"
+  },
+  {
+    "num": 604,
+    "transaction": "Convert",
+    "amount": 99.77,
+    "time_date": "4/9/2021"
+  },
+  {
+    "num": 723,
+    "transaction": "Buy",
+    "amount": 10.35,
+    "time_date": "3/28/2021"
+  },
+  {
+    "num": 191,
+    "transaction": "Buy",
+    "amount": 71.6,
+    "time_date": "11/3/2020"
+  },
+  {
+    "num": 164,
+    "transaction": "Convert",
+    "amount": 33.64,
+    "time_date": "3/7/2021"
+  },
+  {
+    "num": 669,
+    "transaction": "Buy",
+    "amount": 86.42,
+    "time_date": "6/3/2021"
+  },
+  {
+    "num": 362,
+    "transaction": "Convert",
+    "amount": 43.24,
+    "time_date": "12/23/2020"
+  },
+  {
+    "num": 753,
+    "transaction": "Buy",
+    "amount": 28.66,
+    "time_date": "1/7/2021"
+  },
+  {
+    "num": 916,
+    "transaction": "Convert",
+    "amount": 79.9,
+    "time_date": "8/29/2021"
+  },
+  {
+    "num": 917,
+    "transaction": "Buy",
+    "amount": 38.76,
+    "time_date": "7/13/2021"
+  },
+  {
+    "num": 552,
+    "transaction": "Convert",
+    "amount": 98.36,
+    "time_date": "9/2/2020"
+  },
+  {
+    "num": 595,
+    "transaction": "Buy",
+    "amount": 77.62,
+    "time_date": "6/12/2021"
+  },
+  {
+    "num": 249,
+    "transaction": "Buy",
+    "amount": 36.42,
+    "time_date": "8/9/2021"
+  },
+  {
+    "num": 425,
+    "transaction": "Buy",
+    "amount": 11.98,
+    "time_date": "8/3/2021"
+  },
+  {
+    "num": 616,
+    "transaction": "Convert",
+    "amount": 14.7,
+    "time_date": "2/15/2021"
+  },
+  {
+    "num": 998,
+    "transaction": "Convert",
+    "amount": 94.56,
+    "time_date": "9/7/2020"
+  },
+  {
+    "num": 123,
+    "transaction": "Buy",
+    "amount": 16.93,
+    "time_date": "12/28/2020"
+  },
+  {
+    "num": 490,
+    "transaction": "Convert",
+    "amount": 90.24,
+    "time_date": "4/27/2021"
+  },
+  {
+    "num": 668,
+    "transaction": "Convert",
+    "amount": 37.7,
+    "time_date": "3/4/2021"
+  },
+  {
+    "num": 357,
+    "transaction": "Buy",
+    "amount": 72.01,
+    "time_date": "8/16/2021"
+  },
+  {
+    "num": 15,
+    "transaction": "Buy",
+    "amount": 25.03,
+    "time_date": "5/13/2021"
+  },
+  {
+    "num": 301,
+    "transaction": "Buy",
+    "amount": 70.05,
+    "time_date": "4/4/2021"
+  },
+  {
+    "num": 373,
+    "transaction": "Buy",
+    "amount": 61.38,
+    "time_date": "12/23/2020"
+  },
+  {
+    "num": 594,
+    "transaction": "Convert",
+    "amount": 62.17,
+    "time_date": "7/11/2021"
+  },
+  { "num": 53, "transaction": "Buy", "amount": 5.97, "time_date": "10/9/2020" },
+  {
+    "num": 795,
+    "transaction": "Buy",
+    "amount": 26.43,
+    "time_date": "2/25/2021"
+  },
+  {
+    "num": 403,
+    "transaction": "Buy",
+    "amount": 31.91,
+    "time_date": "10/6/2020"
+  },
+  {
+    "num": 585,
+    "transaction": "Buy",
+    "amount": 35.92,
+    "time_date": "5/15/2021"
+  },
+  {
+    "num": 118,
+    "transaction": "Convert",
+    "amount": 43.27,
+    "time_date": "6/7/2021"
+  },
+  {
+    "num": 124,
+    "transaction": "Convert",
+    "amount": 19.47,
+    "time_date": "1/15/2021"
+  },
+  {
+    "num": 576,
+    "transaction": "Convert",
+    "amount": 88.68,
+    "time_date": "11/30/2020"
+  },
+  {
+    "num": 530,
+    "transaction": "Convert",
+    "amount": 66.09,
+    "time_date": "7/19/2021"
+  },
+  {
+    "num": 101,
+    "transaction": "Buy",
+    "amount": 84.39,
+    "time_date": "10/9/2020"
+  },
+  {
+    "num": 289,
+    "transaction": "Buy",
+    "amount": 31.73,
+    "time_date": "2/11/2021"
+  },
+  {
+    "num": 869,
+    "transaction": "Buy",
+    "amount": 27.72,
+    "time_date": "12/29/2020"
+  },
+  {
+    "num": 101,
+    "transaction": "Buy",
+    "amount": 48.98,
+    "time_date": "10/27/2020"
+  },
+  {
+    "num": 988,
+    "transaction": "Convert",
+    "amount": 37.65,
+    "time_date": "12/20/2020"
+  },
+  {
+    "num": 588,
+    "transaction": "Convert",
+    "amount": 23.43,
+    "time_date": "9/29/2020"
+  },
+  {
+    "num": 312,
+    "transaction": "Convert",
+    "amount": 10.71,
+    "time_date": "12/3/2020"
+  },
+  {
+    "num": 613,
+    "transaction": "Buy",
+    "amount": 99.67,
+    "time_date": "3/20/2021"
+  },
+  {
+    "num": 571,
+    "transaction": "Buy",
+    "amount": 16.47,
+    "time_date": "5/19/2021"
+  },
+  {
+    "num": 552,
+    "transaction": "Convert",
+    "amount": 35.76,
+    "time_date": "11/16/2020"
+  },
+  {
+    "num": 46,
+    "transaction": "Convert",
+    "amount": 40.63,
+    "time_date": "3/4/2021"
+  },
+  {
+    "num": 401,
+    "transaction": "Buy",
+    "amount": 23.82,
+    "time_date": "1/22/2021"
+  },
+  {
+    "num": 32,
+    "transaction": "Convert",
+    "amount": 8.36,
+    "time_date": "6/23/2021"
+  },
+  {
+    "num": 581,
+    "transaction": "Buy",
+    "amount": 59.78,
+    "time_date": "12/2/2020"
+  },
+  {
+    "num": 247,
+    "transaction": "Buy",
+    "amount": 68.17,
+    "time_date": "3/29/2021"
+  },
+  {
+    "num": 609,
+    "transaction": "Buy",
+    "amount": 47.58,
+    "time_date": "12/8/2020"
+  },
+  {
+    "num": 138,
+    "transaction": "Convert",
+    "amount": 42.82,
+    "time_date": "4/22/2021"
+  },
+  {
+    "num": 689,
+    "transaction": "Buy",
+    "amount": 89.81,
+    "time_date": "3/14/2021"
+  },
+  {
+    "num": 473,
+    "transaction": "Buy",
+    "amount": 72.68,
+    "time_date": "11/12/2020"
+  },
+  {
+    "num": 937,
+    "transaction": "Buy",
+    "amount": 70.7,
+    "time_date": "3/29/2021"
+  },
+  {
+    "num": 527,
+    "transaction": "Buy",
+    "amount": 52.72,
+    "time_date": "9/3/2020"
+  },
+  {
+    "num": 597,
+    "transaction": "Buy",
+    "amount": 92.82,
+    "time_date": "9/25/2020"
+  },
+  {
+    "num": 822,
+    "transaction": "Convert",
+    "amount": 20.72,
+    "time_date": "3/21/2021"
+  },
+  {
+    "num": 885,
+    "transaction": "Buy",
+    "amount": 70.41,
+    "time_date": "8/20/2021"
+  },
+  {
+    "num": 216,
+    "transaction": "Convert",
+    "amount": 27.23,
+    "time_date": "12/17/2020"
+  },
+  {
+    "num": 541,
+    "transaction": "Buy",
+    "amount": 94.12,
+    "time_date": "11/16/2020"
+  },
+  {
+    "num": 923,
+    "transaction": "Buy",
+    "amount": 64.07,
+    "time_date": "7/12/2021"
+  },
+  {
+    "num": 583,
+    "transaction": "Buy",
+    "amount": 52.88,
+    "time_date": "10/3/2020"
+  },
+  {
+    "num": 425,
+    "transaction": "Buy",
+    "amount": 41.12,
+    "time_date": "12/11/2020"
+  },
+  {
+    "num": 4,
+    "transaction": "Convert",
+    "amount": 77.97,
+    "time_date": "11/18/2020"
+  },
+  {
+    "num": 466,
+    "transaction": "Convert",
+    "amount": 92.27,
+    "time_date": "7/28/2021"
+  },
+  {
+    "num": 873,
+    "transaction": "Buy",
+    "amount": 95.77,
+    "time_date": "12/22/2020"
+  },
+  {
+    "num": 814,
+    "transaction": "Convert",
+    "amount": 71.48,
+    "time_date": "10/26/2020"
+  },
+  {
+    "num": 662,
+    "transaction": "Convert",
+    "amount": 36.31,
+    "time_date": "7/6/2021"
+  },
+  {
+    "num": 767,
+    "transaction": "Buy",
+    "amount": 69.39,
+    "time_date": "4/7/2021"
+  },
+  {
+    "num": 361,
+    "transaction": "Buy",
+    "amount": 87.77,
+    "time_date": "12/1/2020"
+  },
+  {
+    "num": 910,
+    "transaction": "Convert",
+    "amount": 37.94,
+    "time_date": "6/3/2021"
+  },
+  {
+    "num": 786,
+    "transaction": "Convert",
+    "amount": 29.85,
+    "time_date": "6/15/2021"
+  },
+  {
+    "num": 549,
+    "transaction": "Buy",
+    "amount": 81.95,
+    "time_date": "5/7/2021"
+  },
+  {
+    "num": 801,
+    "transaction": "Buy",
+    "amount": 65.12,
+    "time_date": "3/28/2021"
+  },
+  {
+    "num": 735,
+    "transaction": "Buy",
+    "amount": 35.87,
+    "time_date": "1/8/2021"
+  },
+  {
+    "num": 611,
+    "transaction": "Buy",
+    "amount": 14.84,
+    "time_date": "11/12/2020"
+  },
+  {
+    "num": 492,
+    "transaction": "Convert",
+    "amount": 2.02,
+    "time_date": "8/21/2021"
+  },
+  {
+    "num": 62,
+    "transaction": "Convert",
+    "amount": 90.27,
+    "time_date": "12/10/2020"
+  },
+  {
+    "num": 977,
+    "transaction": "Buy",
+    "amount": 75.34,
+    "time_date": "6/23/2021"
+  },
+  {
+    "num": 17,
+    "transaction": "Buy",
+    "amount": 42.89,
+    "time_date": "10/6/2020"
+  },
+  {
+    "num": 367,
+    "transaction": "Buy",
+    "amount": 4.08,
+    "time_date": "8/31/2020"
+  },
+  {
+    "num": 682,
+    "transaction": "Convert",
+    "amount": 94.8,
+    "time_date": "10/23/2020"
+  },
+  {
+    "num": 780,
+    "transaction": "Convert",
+    "amount": 68.72,
+    "time_date": "5/24/2021"
+  },
+  {
+    "num": 720,
+    "transaction": "Convert",
+    "amount": 8.18,
+    "time_date": "2/6/2021"
+  },
+  {
+    "num": 917,
+    "transaction": "Buy",
+    "amount": 36.08,
+    "time_date": "11/22/2020"
+  },
+  {
+    "num": 946,
+    "transaction": "Convert",
+    "amount": 96.12,
+    "time_date": "8/24/2021"
+  },
+  {
+    "num": 74,
+    "transaction": "Convert",
+    "amount": 68.36,
+    "time_date": "1/18/2021"
+  },
+  {
+    "num": 532,
+    "transaction": "Convert",
+    "amount": 42.14,
+    "time_date": "9/9/2020"
+  },
+  {
+    "num": 922,
+    "transaction": "Convert",
+    "amount": 50.28,
+    "time_date": "6/4/2021"
+  },
+  {
+    "num": 519,
+    "transaction": "Buy",
+    "amount": 79.91,
+    "time_date": "9/22/2020"
+  },
+  { "num": 505, "transaction": "Buy", "amount": 18.6, "time_date": "9/5/2020" },
+  {
+    "num": 472,
+    "transaction": "Convert",
+    "amount": 45.75,
+    "time_date": "12/13/2020"
+  },
+  {
+    "num": 493,
+    "transaction": "Buy",
+    "amount": 22.9,
+    "time_date": "8/18/2021"
+  },
+  {
+    "num": 989,
+    "transaction": "Buy",
+    "amount": 67.78,
+    "time_date": "3/15/2021"
+  },
+  {
+    "num": 882,
+    "transaction": "Convert",
+    "amount": 82.79,
+    "time_date": "3/22/2021"
+  },
+  {
+    "num": 670,
+    "transaction": "Convert",
+    "amount": 17.64,
+    "time_date": "8/22/2021"
+  },
+  {
+    "num": 796,
+    "transaction": "Convert",
+    "amount": 49.72,
+    "time_date": "12/24/2020"
+  },
+  {
+    "num": 451,
+    "transaction": "Buy",
+    "amount": 79.61,
+    "time_date": "5/9/2021"
+  },
+  {
+    "num": 653,
+    "transaction": "Buy",
+    "amount": 46.24,
+    "time_date": "9/8/2020"
+  },
+  {
+    "num": 473,
+    "transaction": "Buy",
+    "amount": 13.15,
+    "time_date": "12/18/2020"
+  },
+  {
+    "num": 822,
+    "transaction": "Convert",
+    "amount": 55.41,
+    "time_date": "6/16/2021"
+  },
+  {
+    "num": 862,
+    "transaction": "Convert",
+    "amount": 17.05,
+    "time_date": "7/10/2021"
+  },
+  {
+    "num": 428,
+    "transaction": "Convert",
+    "amount": 17.94,
+    "time_date": "1/14/2021"
+  },
+  {
+    "num": 217,
+    "transaction": "Buy",
+    "amount": 59.91,
+    "time_date": "5/24/2021"
+  },
+  {
+    "num": 252,
+    "transaction": "Convert",
+    "amount": 31.94,
+    "time_date": "5/10/2021"
+  },
+  {
+    "num": 747,
+    "transaction": "Buy",
+    "amount": 7.16,
+    "time_date": "3/13/2021"
+  },
+  {
+    "num": 236,
+    "transaction": "Convert",
+    "amount": 31.61,
+    "time_date": "5/10/2021"
+  },
+  {
+    "num": 352,
+    "transaction": "Convert",
+    "amount": 65.69,
+    "time_date": "9/9/2020"
+  },
+  {
+    "num": 916,
+    "transaction": "Convert",
+    "amount": 84.76,
+    "time_date": "1/28/2021"
+  },
+  { "num": 47, "transaction": "Buy", "amount": 31.8, "time_date": "5/29/2021" },
+  {
+    "num": 370,
+    "transaction": "Convert",
+    "amount": 21.82,
+    "time_date": "2/1/2021"
+  },
+  {
+    "num": 699,
+    "transaction": "Buy",
+    "amount": 82.51,
+    "time_date": "1/28/2021"
+  },
+  {
+    "num": 718,
+    "transaction": "Convert",
+    "amount": 31.91,
+    "time_date": "5/20/2021"
+  },
+  {
+    "num": 548,
+    "transaction": "Convert",
+    "amount": 80.44,
+    "time_date": "5/17/2021"
+  },
+  {
+    "num": 355,
+    "transaction": "Buy",
+    "amount": 86.59,
+    "time_date": "10/27/2020"
+  },
+  {
+    "num": 321,
+    "transaction": "Buy",
+    "amount": 75.95,
+    "time_date": "8/8/2021"
+  },
+  {
+    "num": 928,
+    "transaction": "Convert",
+    "amount": 45.88,
+    "time_date": "6/12/2021"
+  },
+  {
+    "num": 202,
+    "transaction": "Convert",
+    "amount": 25.53,
+    "time_date": "12/19/2020"
+  },
+  {
+    "num": 415,
+    "transaction": "Buy",
+    "amount": 95.7,
+    "time_date": "3/16/2021"
+  },
+  {
+    "num": 862,
+    "transaction": "Convert",
+    "amount": 56.34,
+    "time_date": "12/15/2020"
+  },
+  {
+    "num": 145,
+    "transaction": "Buy",
+    "amount": 75.56,
+    "time_date": "6/18/2021"
+  },
+  {
+    "num": 759,
+    "transaction": "Buy",
+    "amount": 49.89,
+    "time_date": "1/11/2021"
+  },
+  {
+    "num": 260,
+    "transaction": "Convert",
+    "amount": 79.47,
+    "time_date": "9/20/2020"
+  },
+  {
+    "num": 864,
+    "transaction": "Convert",
+    "amount": 75.26,
+    "time_date": "8/20/2021"
+  },
+  {
+    "num": 803,
+    "transaction": "Buy",
+    "amount": 18.04,
+    "time_date": "8/8/2021"
+  },
+  {
+    "num": 718,
+    "transaction": "Convert",
+    "amount": 68.32,
+    "time_date": "12/17/2020"
+  },
+  {
+    "num": 558,
+    "transaction": "Convert",
+    "amount": 11.26,
+    "time_date": "10/8/2020"
+  },
+  {
+    "num": 854,
+    "transaction": "Convert",
+    "amount": 71.0,
+    "time_date": "6/20/2021"
+  },
+  {
+    "num": 947,
+    "transaction": "Buy",
+    "amount": 48.36,
+    "time_date": "11/25/2020"
+  },
+  {
+    "num": 557,
+    "transaction": "Buy",
+    "amount": 99.21,
+    "time_date": "8/16/2021"
+  },
+  { "num": 25, "transaction": "Buy", "amount": 40.25, "time_date": "4/4/2021" },
+  {
+    "num": 526,
+    "transaction": "Convert",
+    "amount": 61.07,
+    "time_date": "7/31/2021"
+  },
+  {
+    "num": 335,
+    "transaction": "Buy",
+    "amount": 16.21,
+    "time_date": "4/20/2021"
+  },
+  {
+    "num": 508,
+    "transaction": "Convert",
+    "amount": 74.37,
+    "time_date": "9/1/2020"
+  },
+  {
+    "num": 800,
+    "transaction": "Convert",
+    "amount": 91.49,
+    "time_date": "4/10/2021"
+  },
+  {
+    "num": 84,
+    "transaction": "Convert",
+    "amount": 16.9,
+    "time_date": "5/3/2021"
+  },
+  { "num": 83, "transaction": "Buy", "amount": 2.6, "time_date": "8/10/2021" },
+  {
+    "num": 482,
+    "transaction": "Convert",
+    "amount": 88.67,
+    "time_date": "5/20/2021"
+  },
+  {
+    "num": 147,
+    "transaction": "Buy",
+    "amount": 40.0,
+    "time_date": "11/16/2020"
+  },
+  {
+    "num": 763,
+    "transaction": "Buy",
+    "amount": 45.67,
+    "time_date": "9/16/2020"
+  },
+  {
+    "num": 206,
+    "transaction": "Convert",
+    "amount": 31.82,
+    "time_date": "8/23/2021"
+  },
+  {
+    "num": 794,
+    "transaction": "Convert",
+    "amount": 97.93,
+    "time_date": "6/18/2021"
+  },
+  {
+    "num": 746,
+    "transaction": "Convert",
+    "amount": 97.27,
+    "time_date": "9/3/2020"
+  },
+  {
+    "num": 273,
+    "transaction": "Buy",
+    "amount": 63.63,
+    "time_date": "3/8/2021"
+  },
+  {
+    "num": 188,
+    "transaction": "Convert",
+    "amount": 80.2,
+    "time_date": "6/13/2021"
+  },
+  {
+    "num": 800,
+    "transaction": "Convert",
+    "amount": 15.53,
+    "time_date": "11/19/2020"
+  },
+  {
+    "num": 508,
+    "transaction": "Convert",
+    "amount": 95.03,
+    "time_date": "10/10/2020"
+  },
+  {
+    "num": 686,
+    "transaction": "Convert",
+    "amount": 4.62,
+    "time_date": "6/25/2021"
+  },
+  {
+    "num": 917,
+    "transaction": "Buy",
+    "amount": 31.37,
+    "time_date": "5/28/2021"
+  },
+  {
+    "num": 357,
+    "transaction": "Buy",
+    "amount": 49.77,
+    "time_date": "12/14/2020"
+  },
+  {
+    "num": 457,
+    "transaction": "Buy",
+    "amount": 50.83,
+    "time_date": "12/13/2020"
+  },
+  {
+    "num": 335,
+    "transaction": "Buy",
+    "amount": 79.25,
+    "time_date": "11/21/2020"
+  },
+  {
+    "num": 183,
+    "transaction": "Buy",
+    "amount": 24.11,
+    "time_date": "8/16/2021"
+  },
+  {
+    "num": 710,
+    "transaction": "Convert",
+    "amount": 76.79,
+    "time_date": "11/12/2020"
+  },
+  { "num": 617, "transaction": "Buy", "amount": 11.0, "time_date": "4/9/2021" },
+  {
+    "num": 242,
+    "transaction": "Convert",
+    "amount": 92.89,
+    "time_date": "12/17/2020"
+  },
+  {
+    "num": 227,
+    "transaction": "Buy",
+    "amount": 57.36,
+    "time_date": "1/19/2021"
+  },
+  {
+    "num": 461,
+    "transaction": "Buy",
+    "amount": 71.77,
+    "time_date": "12/15/2020"
+  },
+  {
+    "num": 467,
+    "transaction": "Buy",
+    "amount": 68.26,
+    "time_date": "9/3/2020"
+  },
+  {
+    "num": 148,
+    "transaction": "Convert",
+    "amount": 68.06,
+    "time_date": "2/26/2021"
+  },
+  {
+    "num": 431,
+    "transaction": "Buy",
+    "amount": 97.1,
+    "time_date": "10/2/2020"
+  },
+  {
+    "num": 912,
+    "transaction": "Convert",
+    "amount": 37.78,
+    "time_date": "1/18/2021"
+  },
+  {
+    "num": 218,
+    "transaction": "Convert",
+    "amount": 38.04,
+    "time_date": "5/11/2021"
+  },
+  {
+    "num": 43,
+    "transaction": "Buy",
+    "amount": 25.66,
+    "time_date": "12/18/2020"
+  },
+  {
+    "num": 351,
+    "transaction": "Buy",
+    "amount": 36.37,
+    "time_date": "9/3/2020"
+  },
+  {
+    "num": 899,
+    "transaction": "Buy",
+    "amount": 63.49,
+    "time_date": "4/29/2021"
+  },
+  {
+    "num": 733,
+    "transaction": "Buy",
+    "amount": 99.03,
+    "time_date": "5/20/2021"
+  },
+  {
+    "num": 211,
+    "transaction": "Buy",
+    "amount": 31.74,
+    "time_date": "2/23/2021"
+  },
+  {
+    "num": 617,
+    "transaction": "Buy",
+    "amount": 12.62,
+    "time_date": "7/14/2021"
+  },
+  {
+    "num": 349,
+    "transaction": "Buy",
+    "amount": 92.82,
+    "time_date": "11/7/2020"
+  },
+  {
+    "num": 635,
+    "transaction": "Buy",
+    "amount": 88.02,
+    "time_date": "11/23/2020"
+  },
+  {
+    "num": 880,
+    "transaction": "Convert",
+    "amount": 44.71,
+    "time_date": "7/21/2021"
+  },
+  {
+    "num": 641,
+    "transaction": "Buy",
+    "amount": 67.86,
+    "time_date": "6/27/2021"
+  },
+  {
+    "num": 14,
+    "transaction": "Convert",
+    "amount": 76.96,
+    "time_date": "10/1/2020"
+  },
+  {
+    "num": 886,
+    "transaction": "Convert",
+    "amount": 70.8,
+    "time_date": "1/18/2021"
+  },
+  {
+    "num": 794,
+    "transaction": "Convert",
+    "amount": 89.12,
+    "time_date": "4/24/2021"
+  },
+  {
+    "num": 699,
+    "transaction": "Buy",
+    "amount": 99.88,
+    "time_date": "1/16/2021"
+  },
+  {
+    "num": 874,
+    "transaction": "Convert",
+    "amount": 1.65,
+    "time_date": "12/23/2020"
+  },
+  {
+    "num": 471,
+    "transaction": "Buy",
+    "amount": 83.89,
+    "time_date": "8/19/2021"
+  },
+  {
+    "num": 16,
+    "transaction": "Convert",
+    "amount": 4.53,
+    "time_date": "7/17/2021"
+  },
+  {
+    "num": 88,
+    "transaction": "Convert",
+    "amount": 51.03,
+    "time_date": "7/29/2021"
+  },
+  {
+    "num": 446,
+    "transaction": "Convert",
+    "amount": 56.82,
+    "time_date": "4/12/2021"
+  },
+  {
+    "num": 347,
+    "transaction": "Buy",
+    "amount": 65.35,
+    "time_date": "3/16/2021"
+  },
+  {
+    "num": 403,
+    "transaction": "Buy",
+    "amount": 74.41,
+    "time_date": "5/3/2021"
+  },
+  {
+    "num": 910,
+    "transaction": "Convert",
+    "amount": 90.76,
+    "time_date": "12/20/2020"
+  },
+  {
+    "num": 299,
+    "transaction": "Buy",
+    "amount": 26.48,
+    "time_date": "2/4/2021"
+  },
+  {
+    "num": 150,
+    "transaction": "Convert",
+    "amount": 58.01,
+    "time_date": "12/4/2020"
+  },
+  {
+    "num": 904,
+    "transaction": "Convert",
+    "amount": 82.15,
+    "time_date": "12/12/2020"
+  },
+  {
+    "num": 12,
+    "transaction": "Convert",
+    "amount": 73.01,
+    "time_date": "9/25/2020"
+  },
+  {
+    "num": 232,
+    "transaction": "Convert",
+    "amount": 96.87,
+    "time_date": "1/17/2021"
+  },
+  {
+    "num": 153,
+    "transaction": "Buy",
+    "amount": 63.58,
+    "time_date": "1/7/2021"
+  },
+  {
+    "num": 724,
+    "transaction": "Convert",
+    "amount": 25.22,
+    "time_date": "8/19/2021"
+  },
+  {
+    "num": 29,
+    "transaction": "Buy",
+    "amount": 45.47,
+    "time_date": "11/17/2020"
+  },
+  {
+    "num": 761,
+    "transaction": "Buy",
+    "amount": 53.64,
+    "time_date": "1/14/2021"
+  },
+  {
+    "num": 799,
+    "transaction": "Buy",
+    "amount": 56.65,
+    "time_date": "3/13/2021"
+  },
+  {
+    "num": 602,
+    "transaction": "Convert",
+    "amount": 23.21,
+    "time_date": "4/13/2021"
+  },
+  {
+    "num": 573,
+    "transaction": "Buy",
+    "amount": 86.08,
+    "time_date": "10/7/2020"
+  },
+  {
+    "num": 48,
+    "transaction": "Convert",
+    "amount": 27.86,
+    "time_date": "5/27/2021"
+  },
+  {
+    "num": 59,
+    "transaction": "Buy",
+    "amount": 99.35,
+    "time_date": "11/7/2020"
+  },
+  {
+    "num": 108,
+    "transaction": "Convert",
+    "amount": 28.31,
+    "time_date": "12/10/2020"
+  },
+  {
+    "num": 2,
+    "transaction": "Convert",
+    "amount": 67.46,
+    "time_date": "5/2/2021"
+  },
+  {
+    "num": 830,
+    "transaction": "Convert",
+    "amount": 85.32,
+    "time_date": "4/11/2021"
+  },
+  {
+    "num": 736,
+    "transaction": "Convert",
+    "amount": 79.08,
+    "time_date": "3/4/2021"
+  },
+  {
+    "num": 476,
+    "transaction": "Convert",
+    "amount": 55.13,
+    "time_date": "2/21/2021"
+  },
+  {
+    "num": 946,
+    "transaction": "Convert",
+    "amount": 93.44,
+    "time_date": "9/20/2020"
+  },
+  {
+    "num": 196,
+    "transaction": "Convert",
+    "amount": 64.02,
+    "time_date": "12/12/2020"
+  },
+  {
+    "num": 571,
+    "transaction": "Buy",
+    "amount": 37.05,
+    "time_date": "1/26/2021"
+  },
+  {
+    "num": 508,
+    "transaction": "Convert",
+    "amount": 10.79,
+    "time_date": "7/31/2021"
+  },
+  {
+    "num": 191,
+    "transaction": "Buy",
+    "amount": 62.45,
+    "time_date": "8/18/2021"
+  },
+  {
+    "num": 599,
+    "transaction": "Buy",
+    "amount": 70.13,
+    "time_date": "12/18/2020"
+  },
+  {
+    "num": 542,
+    "transaction": "Convert",
+    "amount": 72.47,
+    "time_date": "12/24/2020"
+  },
+  {
+    "num": 389,
+    "transaction": "Buy",
+    "amount": 54.95,
+    "time_date": "7/29/2021"
+  },
+  {
+    "num": 953,
+    "transaction": "Buy",
+    "amount": 36.57,
+    "time_date": "5/26/2021"
+  },
+  {
+    "num": 865,
+    "transaction": "Buy",
+    "amount": 87.77,
+    "time_date": "2/25/2021"
+  },
+  {
+    "num": 627,
+    "transaction": "Buy",
+    "amount": 51.66,
+    "time_date": "3/17/2021"
+  },
+  {
+    "num": 301,
+    "transaction": "Buy",
+    "amount": 18.08,
+    "time_date": "3/28/2021"
+  },
+  {
+    "num": 186,
+    "transaction": "Convert",
+    "amount": 78.78,
+    "time_date": "9/8/2020"
+  },
+  {
+    "num": 621,
+    "transaction": "Buy",
+    "amount": 59.71,
+    "time_date": "12/27/2020"
+  },
+  {
+    "num": 497,
+    "transaction": "Buy",
+    "amount": 24.93,
+    "time_date": "10/16/2020"
+  },
+  {
+    "num": 17,
+    "transaction": "Buy",
+    "amount": 51.27,
+    "time_date": "9/22/2020"
+  },
+  {
+    "num": 484,
+    "transaction": "Convert",
+    "amount": 37.73,
+    "time_date": "6/18/2021"
+  },
+  {
+    "num": 988,
+    "transaction": "Convert",
+    "amount": 58.89,
+    "time_date": "1/18/2021"
+  },
+  {
+    "num": 117,
+    "transaction": "Buy",
+    "amount": 33.9,
+    "time_date": "8/29/2021"
+  },
+  {
+    "num": 905,
+    "transaction": "Buy",
+    "amount": 17.82,
+    "time_date": "1/25/2021"
+  },
+  { "num": 69, "transaction": "Buy", "amount": 5.26, "time_date": "5/25/2021" },
+  {
+    "num": 553,
+    "transaction": "Buy",
+    "amount": 78.88,
+    "time_date": "9/22/2020"
+  },
+  {
+    "num": 129,
+    "transaction": "Buy",
+    "amount": 10.07,
+    "time_date": "4/14/2021"
+  },
+  {
+    "num": 337,
+    "transaction": "Buy",
+    "amount": 24.26,
+    "time_date": "3/10/2021"
+  },
+  {
+    "num": 251,
+    "transaction": "Buy",
+    "amount": 58.36,
+    "time_date": "12/11/2020"
+  },
+  {
+    "num": 454,
+    "transaction": "Convert",
+    "amount": 36.54,
+    "time_date": "1/1/2021"
+  },
+  { "num": 425, "transaction": "Buy", "amount": 18.6, "time_date": "9/7/2020" },
+  {
+    "num": 898,
+    "transaction": "Convert",
+    "amount": 51.8,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 655,
+    "transaction": "Buy",
+    "amount": 2.82,
+    "time_date": "6/12/2021"
+  },
+  {
+    "num": 876,
+    "transaction": "Convert",
+    "amount": 34.09,
+    "time_date": "8/14/2021"
+  },
+  {
+    "num": 438,
+    "transaction": "Convert",
+    "amount": 44.71,
+    "time_date": "8/11/2021"
+  },
+  {
+    "num": 435,
+    "transaction": "Buy",
+    "amount": 16.94,
+    "time_date": "11/3/2020"
+  },
+  {
+    "num": 806,
+    "transaction": "Convert",
+    "amount": 48.52,
+    "time_date": "12/16/2020"
+  },
+  {
+    "num": 57,
+    "transaction": "Buy",
+    "amount": 18.06,
+    "time_date": "4/21/2021"
+  },
+  {
+    "num": 803,
+    "transaction": "Buy",
+    "amount": 94.94,
+    "time_date": "3/24/2021"
+  },
+  {
+    "num": 775,
+    "transaction": "Buy",
+    "amount": 45.33,
+    "time_date": "3/21/2021"
+  },
+  {
+    "num": 10,
+    "transaction": "Convert",
+    "amount": 69.0,
+    "time_date": "2/12/2021"
+  },
+  {
+    "num": 305,
+    "transaction": "Buy",
+    "amount": 12.31,
+    "time_date": "7/18/2021"
+  },
+  {
+    "num": 591,
+    "transaction": "Buy",
+    "amount": 59.77,
+    "time_date": "9/28/2020"
+  },
+  {
+    "num": 745,
+    "transaction": "Buy",
+    "amount": 20.75,
+    "time_date": "4/22/2021"
+  },
+  {
+    "num": 286,
+    "transaction": "Convert",
+    "amount": 62.46,
+    "time_date": "11/8/2020"
+  },
+  {
+    "num": 161,
+    "transaction": "Buy",
+    "amount": 51.51,
+    "time_date": "7/3/2021"
+  },
+  {
+    "num": 621,
+    "transaction": "Buy",
+    "amount": 66.72,
+    "time_date": "3/30/2021"
+  },
+  {
+    "num": 464,
+    "transaction": "Convert",
+    "amount": 90.2,
+    "time_date": "7/9/2021"
+  },
+  {
+    "num": 471,
+    "transaction": "Buy",
+    "amount": 5.28,
+    "time_date": "5/16/2021"
+  },
+  {
+    "num": 990,
+    "transaction": "Convert",
+    "amount": 34.26,
+    "time_date": "12/3/2020"
+  },
+  {
+    "num": 342,
+    "transaction": "Convert",
+    "amount": 28.34,
+    "time_date": "9/12/2020"
+  },
+  {
+    "num": 220,
+    "transaction": "Convert",
+    "amount": 58.02,
+    "time_date": "3/31/2021"
+  },
+  {
+    "num": 24,
+    "transaction": "Convert",
+    "amount": 72.47,
+    "time_date": "5/10/2021"
+  },
+  {
+    "num": 241,
+    "transaction": "Buy",
+    "amount": 98.16,
+    "time_date": "9/17/2020"
+  },
+  {
+    "num": 366,
+    "transaction": "Convert",
+    "amount": 23.44,
+    "time_date": "4/11/2021"
+  },
+  {
+    "num": 742,
+    "transaction": "Convert",
+    "amount": 3.64,
+    "time_date": "5/20/2021"
+  },
+  {
+    "num": 306,
+    "transaction": "Convert",
+    "amount": 36.75,
+    "time_date": "1/15/2021"
+  },
+  {
+    "num": 806,
+    "transaction": "Convert",
+    "amount": 23.12,
+    "time_date": "11/5/2020"
+  },
+  {
+    "num": 201,
+    "transaction": "Buy",
+    "amount": 2.03,
+    "time_date": "5/27/2021"
+  },
+  { "num": 999, "transaction": "Buy", "amount": 9.5, "time_date": "9/26/2020" },
+  {
+    "num": 130,
+    "transaction": "Convert",
+    "amount": 13.7,
+    "time_date": "5/17/2021"
+  },
+  {
+    "num": 727,
+    "transaction": "Buy",
+    "amount": 4.66,
+    "time_date": "12/16/2020"
+  },
+  {
+    "num": 476,
+    "transaction": "Convert",
+    "amount": 44.47,
+    "time_date": "2/11/2021"
+  },
+  {
+    "num": 973,
+    "transaction": "Buy",
+    "amount": 59.29,
+    "time_date": "12/8/2020"
+  },
+  {
+    "num": 920,
+    "transaction": "Convert",
+    "amount": 17.11,
+    "time_date": "2/1/2021"
+  },
+  {
+    "num": 764,
+    "transaction": "Convert",
+    "amount": 2.15,
+    "time_date": "11/13/2020"
+  },
+  {
+    "num": 334,
+    "transaction": "Convert",
+    "amount": 28.3,
+    "time_date": "12/12/2020"
+  },
+  {
+    "num": 755,
+    "transaction": "Buy",
+    "amount": 76.36,
+    "time_date": "3/16/2021"
+  },
+  {
+    "num": 760,
+    "transaction": "Convert",
+    "amount": 11.75,
+    "time_date": "3/10/2021"
+  },
+  {
+    "num": 4,
+    "transaction": "Convert",
+    "amount": 35.2,
+    "time_date": "1/1/2021"
+  },
+  {
+    "num": 138,
+    "transaction": "Convert",
+    "amount": 41.05,
+    "time_date": "4/21/2021"
+  },
+  {
+    "num": 825,
+    "transaction": "Buy",
+    "amount": 85.24,
+    "time_date": "1/27/2021"
+  },
+  {
+    "num": 867,
+    "transaction": "Buy",
+    "amount": 69.55,
+    "time_date": "1/10/2021"
+  },
+  {
+    "num": 500,
+    "transaction": "Convert",
+    "amount": 58.34,
+    "time_date": "8/11/2021"
+  },
+  {
+    "num": 550,
+    "transaction": "Convert",
+    "amount": 4.27,
+    "time_date": "11/1/2020"
+  },
+  {
+    "num": 270,
+    "transaction": "Convert",
+    "amount": 70.3,
+    "time_date": "1/20/2021"
+  },
+  {
+    "num": 846,
+    "transaction": "Convert",
+    "amount": 15.38,
+    "time_date": "12/25/2020"
+  },
+  { "num": 839, "transaction": "Buy", "amount": 18.9, "time_date": "1/8/2021" },
+  {
+    "num": 421,
+    "transaction": "Buy",
+    "amount": 24.79,
+    "time_date": "9/22/2020"
+  },
+  {
+    "num": 379,
+    "transaction": "Buy",
+    "amount": 76.73,
+    "time_date": "6/12/2021"
+  },
+  {
+    "num": 424,
+    "transaction": "Convert",
+    "amount": 12.84,
+    "time_date": "7/16/2021"
+  },
+  {
+    "num": 984,
+    "transaction": "Convert",
+    "amount": 80.89,
+    "time_date": "8/31/2020"
+  },
+  {
+    "num": 664,
+    "transaction": "Convert",
+    "amount": 10.13,
+    "time_date": "7/22/2021"
+  },
+  {
+    "num": 430,
+    "transaction": "Convert",
+    "amount": 19.1,
+    "time_date": "1/22/2021"
+  },
+  {
+    "num": 632,
+    "transaction": "Convert",
+    "amount": 47.17,
+    "time_date": "8/20/2021"
+  },
+  {
+    "num": 206,
+    "transaction": "Convert",
+    "amount": 71.67,
+    "time_date": "12/19/2020"
+  },
+  {
+    "num": 91,
+    "transaction": "Buy",
+    "amount": 29.84,
+    "time_date": "8/25/2021"
+  },
+  {
+    "num": 861,
+    "transaction": "Buy",
+    "amount": 22.29,
+    "time_date": "4/30/2021"
+  },
+  {
+    "num": 35,
+    "transaction": "Buy",
+    "amount": 37.06,
+    "time_date": "6/24/2021"
+  },
+  {
+    "num": 331,
+    "transaction": "Buy",
+    "amount": 45.33,
+    "time_date": "6/18/2021"
+  },
+  {
+    "num": 480,
+    "transaction": "Convert",
+    "amount": 11.26,
+    "time_date": "2/1/2021"
+  },
+  {
+    "num": 482,
+    "transaction": "Convert",
+    "amount": 15.68,
+    "time_date": "12/22/2020"
+  },
+  {
+    "num": 569,
+    "transaction": "Buy",
+    "amount": 33.94,
+    "time_date": "2/1/2021"
+  },
+  {
+    "num": 983,
+    "transaction": "Buy",
+    "amount": 33.51,
+    "time_date": "11/1/2020"
+  },
+  {
+    "num": 844,
+    "transaction": "Convert",
+    "amount": 24.88,
+    "time_date": "1/3/2021"
+  },
+  {
+    "num": 882,
+    "transaction": "Convert",
+    "amount": 76.78,
+    "time_date": "6/16/2021"
+  },
+  {
+    "num": 990,
+    "transaction": "Convert",
+    "amount": 3.74,
+    "time_date": "8/27/2021"
+  },
+  {
+    "num": 876,
+    "transaction": "Convert",
+    "amount": 63.88,
+    "time_date": "4/8/2021"
+  },
+  {
+    "num": 240,
+    "transaction": "Convert",
+    "amount": 46.85,
+    "time_date": "10/18/2020"
+  },
+  {
+    "num": 799,
+    "transaction": "Buy",
+    "amount": 3.02,
+    "time_date": "12/19/2020"
+  },
+  {
+    "num": 463,
+    "transaction": "Buy",
+    "amount": 81.66,
+    "time_date": "11/24/2020"
+  },
+  {
+    "num": 16,
+    "transaction": "Convert",
+    "amount": 25.63,
+    "time_date": "11/3/2020"
+  },
+  {
+    "num": 613,
+    "transaction": "Buy",
+    "amount": 92.97,
+    "time_date": "5/14/2021"
+  },
+  {
+    "num": 573,
+    "transaction": "Buy",
+    "amount": 31.81,
+    "time_date": "1/10/2021"
+  },
+  {
+    "num": 178,
+    "transaction": "Convert",
+    "amount": 6.45,
+    "time_date": "9/2/2020"
+  },
+  {
+    "num": 605,
+    "transaction": "Buy",
+    "amount": 4.35,
+    "time_date": "7/25/2021"
+  },
+  {
+    "num": 957,
+    "transaction": "Buy",
+    "amount": 99.83,
+    "time_date": "9/6/2020"
+  },
+  {
+    "num": 866,
+    "transaction": "Convert",
+    "amount": 78.46,
+    "time_date": "8/12/2021"
+  },
+  {
+    "num": 663,
+    "transaction": "Buy",
+    "amount": 7.07,
+    "time_date": "4/14/2021"
+  },
+  {
+    "num": 565,
+    "transaction": "Buy",
+    "amount": 79.6,
+    "time_date": "6/21/2021"
+  },
+  { "num": 641, "transaction": "Buy", "amount": 7.47, "time_date": "1/3/2021" },
+  {
+    "num": 639,
+    "transaction": "Buy",
+    "amount": 82.31,
+    "time_date": "7/21/2021"
+  },
+  {
+    "num": 688,
+    "transaction": "Convert",
+    "amount": 64.02,
+    "time_date": "10/4/2020"
+  },
+  {
+    "num": 431,
+    "transaction": "Buy",
+    "amount": 97.52,
+    "time_date": "8/9/2021"
+  },
+  {
+    "num": 877,
+    "transaction": "Buy",
+    "amount": 47.33,
+    "time_date": "1/26/2021"
+  },
+  {
+    "num": 350,
+    "transaction": "Convert",
+    "amount": 81.33,
+    "time_date": "9/28/2020"
+  },
+  {
+    "num": 864,
+    "transaction": "Convert",
+    "amount": 98.08,
+    "time_date": "6/20/2021"
+  },
+  {
+    "num": 505,
+    "transaction": "Buy",
+    "amount": 67.54,
+    "time_date": "12/22/2020"
+  },
+  {
+    "num": 427,
+    "transaction": "Buy",
+    "amount": 41.05,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 671,
+    "transaction": "Buy",
+    "amount": 87.06,
+    "time_date": "11/16/2020"
+  },
+  {
+    "num": 393,
+    "transaction": "Buy",
+    "amount": 14.26,
+    "time_date": "3/18/2021"
+  },
+  {
+    "num": 994,
+    "transaction": "Convert",
+    "amount": 70.59,
+    "time_date": "8/3/2021"
+  },
+  {
+    "num": 278,
+    "transaction": "Convert",
+    "amount": 51.16,
+    "time_date": "7/5/2021"
+  },
+  {
+    "num": 791,
+    "transaction": "Buy",
+    "amount": 1.37,
+    "time_date": "7/15/2021"
+  },
+  {
+    "num": 140,
+    "transaction": "Convert",
+    "amount": 45.4,
+    "time_date": "3/11/2021"
+  },
+  { "num": 301, "transaction": "Buy", "amount": 65.1, "time_date": "3/2/2021" },
+  {
+    "num": 908,
+    "transaction": "Convert",
+    "amount": 32.74,
+    "time_date": "2/22/2021"
+  },
+  {
+    "num": 959,
+    "transaction": "Buy",
+    "amount": 29.55,
+    "time_date": "2/24/2021"
+  },
+  {
+    "num": 607,
+    "transaction": "Buy",
+    "amount": 22.53,
+    "time_date": "2/6/2021"
+  },
+  {
+    "num": 297,
+    "transaction": "Buy",
+    "amount": 26.3,
+    "time_date": "1/24/2021"
+  },
+  {
+    "num": 56,
+    "transaction": "Convert",
+    "amount": 96.89,
+    "time_date": "7/29/2021"
+  },
+  {
+    "num": 885,
+    "transaction": "Buy",
+    "amount": 20.79,
+    "time_date": "4/9/2021"
+  },
+  {
+    "num": 995,
+    "transaction": "Buy",
+    "amount": 38.82,
+    "time_date": "1/7/2021"
+  },
+  { "num": 855, "transaction": "Buy", "amount": 6.32, "time_date": "1/5/2021" },
+  {
+    "num": 223,
+    "transaction": "Buy",
+    "amount": 99.79,
+    "time_date": "10/7/2020"
+  },
+  {
+    "num": 631,
+    "transaction": "Buy",
+    "amount": 96.03,
+    "time_date": "9/7/2020"
+  },
+  {
+    "num": 210,
+    "transaction": "Convert",
+    "amount": 23.57,
+    "time_date": "10/1/2020"
+  },
+  {
+    "num": 877,
+    "transaction": "Buy",
+    "amount": 87.2,
+    "time_date": "10/22/2020"
+  },
+  {
+    "num": 798,
+    "transaction": "Convert",
+    "amount": 84.03,
+    "time_date": "4/4/2021"
+  },
+  {
+    "num": 801,
+    "transaction": "Buy",
+    "amount": 39.98,
+    "time_date": "11/26/2020"
+  },
+  {
+    "num": 224,
+    "transaction": "Convert",
+    "amount": 7.65,
+    "time_date": "8/20/2021"
+  },
+  {
+    "num": 190,
+    "transaction": "Convert",
+    "amount": 79.7,
+    "time_date": "9/3/2020"
+  },
+  {
+    "num": 718,
+    "transaction": "Convert",
+    "amount": 12.62,
+    "time_date": "5/23/2021"
+  },
+  {
+    "num": 73,
+    "transaction": "Buy",
+    "amount": 44.66,
+    "time_date": "2/18/2021"
+  },
+  {
+    "num": 615,
+    "transaction": "Buy",
+    "amount": 80.62,
+    "time_date": "11/19/2020"
+  },
+  {
+    "num": 477,
+    "transaction": "Buy",
+    "amount": 47.95,
+    "time_date": "3/24/2021"
+  },
+  {
+    "num": 405,
+    "transaction": "Buy",
+    "amount": 52.82,
+    "time_date": "12/14/2020"
+  },
+  {
+    "num": 182,
+    "transaction": "Convert",
+    "amount": 53.94,
+    "time_date": "4/4/2021"
+  },
+  {
+    "num": 935,
+    "transaction": "Buy",
+    "amount": 56.32,
+    "time_date": "8/19/2021"
+  },
+  {
+    "num": 300,
+    "transaction": "Convert",
+    "amount": 37.43,
+    "time_date": "7/18/2021"
+  },
+  {
+    "num": 367,
+    "transaction": "Buy",
+    "amount": 19.77,
+    "time_date": "10/26/2020"
+  },
+  { "num": 61, "transaction": "Buy", "amount": 61.22, "time_date": "4/1/2021" },
+  {
+    "num": 782,
+    "transaction": "Convert",
+    "amount": 33.54,
+    "time_date": "9/6/2020"
+  },
+  {
+    "num": 612,
+    "transaction": "Convert",
+    "amount": 59.37,
+    "time_date": "11/9/2020"
+  },
+  {
+    "num": 86,
+    "transaction": "Convert",
+    "amount": 94.5,
+    "time_date": "5/29/2021"
+  },
+  {
+    "num": 85,
+    "transaction": "Buy",
+    "amount": 58.41,
+    "time_date": "3/17/2021"
+  },
+  {
+    "num": 516,
+    "transaction": "Convert",
+    "amount": 45.01,
+    "time_date": "9/30/2020"
+  },
+  {
+    "num": 671,
+    "transaction": "Buy",
+    "amount": 45.76,
+    "time_date": "3/31/2021"
+  },
+  {
+    "num": 783,
+    "transaction": "Buy",
+    "amount": 81.2,
+    "time_date": "2/27/2021"
+  },
+  { "num": 723, "transaction": "Buy", "amount": 6.28, "time_date": "5/4/2021" },
+  { "num": 803, "transaction": "Buy", "amount": 7.57, "time_date": "6/6/2021" },
+  { "num": 493, "transaction": "Buy", "amount": 4.5, "time_date": "9/12/2020" },
+  {
+    "num": 151,
+    "transaction": "Buy",
+    "amount": 31.52,
+    "time_date": "8/31/2020"
+  },
+  {
+    "num": 956,
+    "transaction": "Convert",
+    "amount": 90.67,
+    "time_date": "8/15/2021"
+  },
+  {
+    "num": 762,
+    "transaction": "Convert",
+    "amount": 15.23,
+    "time_date": "7/7/2021"
+  },
+  {
+    "num": 550,
+    "transaction": "Convert",
+    "amount": 41.37,
+    "time_date": "3/11/2021"
+  },
+  {
+    "num": 390,
+    "transaction": "Convert",
+    "amount": 31.1,
+    "time_date": "4/1/2021"
+  },
+  {
+    "num": 299,
+    "transaction": "Buy",
+    "amount": 4.94,
+    "time_date": "12/1/2020"
+  },
+  {
+    "num": 370,
+    "transaction": "Convert",
+    "amount": 16.01,
+    "time_date": "3/10/2021"
+  },
+  {
+    "num": 666,
+    "transaction": "Convert",
+    "amount": 5.77,
+    "time_date": "5/8/2021"
+  },
+  {
+    "num": 631,
+    "transaction": "Buy",
+    "amount": 79.61,
+    "time_date": "4/21/2021"
+  },
+  {
+    "num": 817,
+    "transaction": "Buy",
+    "amount": 96.86,
+    "time_date": "4/12/2021"
+  },
+  {
+    "num": 685,
+    "transaction": "Buy",
+    "amount": 23.85,
+    "time_date": "7/3/2021"
+  },
+  {
+    "num": 51,
+    "transaction": "Buy",
+    "amount": 68.96,
+    "time_date": "7/25/2021"
+  },
+  {
+    "num": 452,
+    "transaction": "Convert",
+    "amount": 26.79,
+    "time_date": "3/4/2021"
+  },
+  {
+    "num": 322,
+    "transaction": "Convert",
+    "amount": 6.83,
+    "time_date": "9/27/2020"
+  },
+  {
+    "num": 764,
+    "transaction": "Convert",
+    "amount": 9.65,
+    "time_date": "6/17/2021"
+  },
+  {
+    "num": 451,
+    "transaction": "Buy",
+    "amount": 65.82,
+    "time_date": "6/12/2021"
+  },
+  {
+    "num": 470,
+    "transaction": "Convert",
+    "amount": 98.76,
+    "time_date": "7/20/2021"
+  },
+  {
+    "num": 747,
+    "transaction": "Buy",
+    "amount": 70.78,
+    "time_date": "9/24/2020"
+  },
+  {
+    "num": 921,
+    "transaction": "Buy",
+    "amount": 93.3,
+    "time_date": "3/23/2021"
+  },
+  {
+    "num": 903,
+    "transaction": "Buy",
+    "amount": 8.11,
+    "time_date": "11/24/2020"
+  },
+  {
+    "num": 379,
+    "transaction": "Buy",
+    "amount": 34.91,
+    "time_date": "1/30/2021"
+  },
+  {
+    "num": 323,
+    "transaction": "Buy",
+    "amount": 75.15,
+    "time_date": "12/17/2020"
+  },
+  {
+    "num": 247,
+    "transaction": "Buy",
+    "amount": 82.76,
+    "time_date": "6/27/2021"
+  },
+  { "num": 13, "transaction": "Buy", "amount": 95.79, "time_date": "8/9/2021" },
+  {
+    "num": 936,
+    "transaction": "Convert",
+    "amount": 61.17,
+    "time_date": "10/23/2020"
+  },
+  {
+    "num": 247,
+    "transaction": "Buy",
+    "amount": 22.58,
+    "time_date": "8/5/2021"
+  },
+  {
+    "num": 497,
+    "transaction": "Buy",
+    "amount": 59.01,
+    "time_date": "1/17/2021"
+  },
+  {
+    "num": 405,
+    "transaction": "Buy",
+    "amount": 41.23,
+    "time_date": "7/1/2021"
+  },
+  {
+    "num": 143,
+    "transaction": "Buy",
+    "amount": 94.14,
+    "time_date": "9/22/2020"
+  },
+  {
+    "num": 752,
+    "transaction": "Convert",
+    "amount": 9.29,
+    "time_date": "8/22/2021"
+  },
+  {
+    "num": 944,
+    "transaction": "Convert",
+    "amount": 10.05,
+    "time_date": "1/14/2021"
+  },
+  {
+    "num": 460,
+    "transaction": "Convert",
+    "amount": 67.89,
+    "time_date": "5/2/2021"
+  },
+  {
+    "num": 798,
+    "transaction": "Convert",
+    "amount": 94.01,
+    "time_date": "3/17/2021"
+  },
+  {
+    "num": 229,
+    "transaction": "Buy",
+    "amount": 63.61,
+    "time_date": "4/7/2021"
+  },
+  {
+    "num": 610,
+    "transaction": "Convert",
+    "amount": 52.95,
+    "time_date": "1/2/2021"
+  },
+  { "num": 9, "transaction": "Buy", "amount": 6.23, "time_date": "2/11/2021" },
+  {
+    "num": 33,
+    "transaction": "Buy",
+    "amount": 28.54,
+    "time_date": "1/12/2021"
+  },
+  {
+    "num": 440,
+    "transaction": "Convert",
+    "amount": 17.04,
+    "time_date": "8/22/2021"
+  },
+  {
+    "num": 332,
+    "transaction": "Convert",
+    "amount": 52.64,
+    "time_date": "3/30/2021"
+  },
+  {
+    "num": 782,
+    "transaction": "Convert",
+    "amount": 63.92,
+    "time_date": "7/10/2021"
+  },
+  {
+    "num": 93,
+    "transaction": "Buy",
+    "amount": 48.25,
+    "time_date": "4/13/2021"
+  },
+  {
+    "num": 345,
+    "transaction": "Buy",
+    "amount": 42.99,
+    "time_date": "5/15/2021"
+  },
+  {
+    "num": 757,
+    "transaction": "Buy",
+    "amount": 15.98,
+    "time_date": "12/4/2020"
+  },
+  {
+    "num": 83,
+    "transaction": "Buy",
+    "amount": 21.91,
+    "time_date": "3/24/2021"
+  },
+  {
+    "num": 173,
+    "transaction": "Buy",
+    "amount": 48.82,
+    "time_date": "1/5/2021"
+  },
+  {
+    "num": 267,
+    "transaction": "Buy",
+    "amount": 80.75,
+    "time_date": "1/27/2021"
+  },
+  {
+    "num": 853,
+    "transaction": "Buy",
+    "amount": 27.63,
+    "time_date": "2/18/2021"
+  },
+  {
+    "num": 338,
+    "transaction": "Convert",
+    "amount": 33.41,
+    "time_date": "12/15/2020"
+  },
+  {
+    "num": 643,
+    "transaction": "Buy",
+    "amount": 83.64,
+    "time_date": "1/15/2021"
+  },
+  { "num": 891, "transaction": "Buy", "amount": 17.0, "time_date": "6/8/2021" },
+  {
+    "num": 8,
+    "transaction": "Convert",
+    "amount": 61.1,
+    "time_date": "6/26/2021"
+  },
+  {
+    "num": 458,
+    "transaction": "Convert",
+    "amount": 47.75,
+    "time_date": "11/28/2020"
+  },
+  {
+    "num": 769,
+    "transaction": "Buy",
+    "amount": 43.17,
+    "time_date": "10/14/2020"
+  },
+  {
+    "num": 723,
+    "transaction": "Buy",
+    "amount": 62.3,
+    "time_date": "12/16/2020"
+  },
+  {
+    "num": 903,
+    "transaction": "Buy",
+    "amount": 48.79,
+    "time_date": "8/10/2021"
+  },
+  {
+    "num": 607,
+    "transaction": "Buy",
+    "amount": 62.86,
+    "time_date": "5/5/2021"
+  },
+  {
+    "num": 4,
+    "transaction": "Convert",
+    "amount": 59.0,
+    "time_date": "12/27/2020"
+  },
+  {
+    "num": 957,
+    "transaction": "Buy",
+    "amount": 50.59,
+    "time_date": "12/7/2020"
+  },
+  {
+    "num": 139,
+    "transaction": "Buy",
+    "amount": 35.07,
+    "time_date": "4/16/2021"
+  },
+  {
+    "num": 518,
+    "transaction": "Convert",
+    "amount": 55.97,
+    "time_date": "10/23/2020"
+  },
+  {
+    "num": 404,
+    "transaction": "Convert",
+    "amount": 4.56,
+    "time_date": "10/6/2020"
+  },
+  {
+    "num": 116,
+    "transaction": "Convert",
+    "amount": 37.29,
+    "time_date": "1/14/2021"
+  },
+  {
+    "num": 356,
+    "transaction": "Convert",
+    "amount": 13.99,
+    "time_date": "2/16/2021"
+  },
+  { "num": 895, "transaction": "Buy", "amount": 28.2, "time_date": "2/6/2021" },
+  {
+    "num": 170,
+    "transaction": "Convert",
+    "amount": 90.06,
+    "time_date": "1/27/2021"
+  },
+  {
+    "num": 345,
+    "transaction": "Buy",
+    "amount": 63.49,
+    "time_date": "9/25/2020"
+  },
+  {
+    "num": 564,
+    "transaction": "Convert",
+    "amount": 19.73,
+    "time_date": "4/3/2021"
+  },
+  {
+    "num": 462,
+    "transaction": "Convert",
+    "amount": 93.92,
+    "time_date": "3/12/2021"
+  },
+  {
+    "num": 770,
+    "transaction": "Convert",
+    "amount": 97.44,
+    "time_date": "5/12/2021"
+  },
+  {
+    "num": 869,
+    "transaction": "Buy",
+    "amount": 12.67,
+    "time_date": "6/17/2021"
+  },
+  {
+    "num": 631,
+    "transaction": "Buy",
+    "amount": 71.84,
+    "time_date": "4/7/2021"
+  },
+  { "num": 37, "transaction": "Buy", "amount": 22.82, "time_date": "3/9/2021" },
+  {
+    "num": 754,
+    "transaction": "Convert",
+    "amount": 73.05,
+    "time_date": "4/17/2021"
+  },
+  {
+    "num": 111,
+    "transaction": "Buy",
+    "amount": 89.84,
+    "time_date": "10/14/2020"
+  },
+  {
+    "num": 538,
+    "transaction": "Convert",
+    "amount": 92.36,
+    "time_date": "1/12/2021"
+  },
+  {
+    "num": 595,
+    "transaction": "Buy",
+    "amount": 74.8,
+    "time_date": "6/14/2021"
+  },
+  {
+    "num": 239,
+    "transaction": "Buy",
+    "amount": 12.95,
+    "time_date": "9/3/2020"
+  },
+  {
+    "num": 883,
+    "transaction": "Buy",
+    "amount": 26.88,
+    "time_date": "10/4/2020"
+  },
+  {
+    "num": 457,
+    "transaction": "Buy",
+    "amount": 21.32,
+    "time_date": "8/26/2021"
+  },
+  {
+    "num": 456,
+    "transaction": "Convert",
+    "amount": 23.67,
+    "time_date": "6/14/2021"
+  },
+  {
+    "num": 316,
+    "transaction": "Convert",
+    "amount": 85.69,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 135,
+    "transaction": "Buy",
+    "amount": 13.85,
+    "time_date": "11/17/2020"
+  },
+  {
+    "num": 935,
+    "transaction": "Buy",
+    "amount": 43.46,
+    "time_date": "1/29/2021"
+  },
+  {
+    "num": 127,
+    "transaction": "Buy",
+    "amount": 74.12,
+    "time_date": "12/18/2020"
+  },
+  {
+    "num": 560,
+    "transaction": "Convert",
+    "amount": 24.21,
+    "time_date": "2/2/2021"
+  },
+  {
+    "num": 362,
+    "transaction": "Convert",
+    "amount": 47.18,
+    "time_date": "10/13/2020"
+  },
+  {
+    "num": 980,
+    "transaction": "Convert",
+    "amount": 77.92,
+    "time_date": "10/29/2020"
+  },
+  {
+    "num": 873,
+    "transaction": "Buy",
+    "amount": 36.16,
+    "time_date": "6/23/2021"
+  },
+  {
+    "num": 682,
+    "transaction": "Convert",
+    "amount": 78.71,
+    "time_date": "7/3/2021"
+  },
+  {
+    "num": 266,
+    "transaction": "Convert",
+    "amount": 11.01,
+    "time_date": "7/19/2021"
+  },
+  {
+    "num": 357,
+    "transaction": "Buy",
+    "amount": 78.92,
+    "time_date": "4/24/2021"
+  },
+  {
+    "num": 705,
+    "transaction": "Buy",
+    "amount": 75.26,
+    "time_date": "2/8/2021"
+  },
+  {
+    "num": 759,
+    "transaction": "Buy",
+    "amount": 46.12,
+    "time_date": "11/30/2020"
+  },
+  {
+    "num": 188,
+    "transaction": "Convert",
+    "amount": 84.53,
+    "time_date": "8/2/2021"
+  },
+  {
+    "num": 81,
+    "transaction": "Buy",
+    "amount": 44.85,
+    "time_date": "7/27/2021"
+  },
+  {
+    "num": 166,
+    "transaction": "Convert",
+    "amount": 11.37,
+    "time_date": "5/8/2021"
+  },
+  {
+    "num": 354,
+    "transaction": "Convert",
+    "amount": 18.87,
+    "time_date": "11/10/2020"
+  },
+  { "num": 777, "transaction": "Buy", "amount": 51.4, "time_date": "1/2/2021" },
+  {
+    "num": 904,
+    "transaction": "Convert",
+    "amount": 71.7,
+    "time_date": "7/24/2021"
+  },
+  {
+    "num": 972,
+    "transaction": "Convert",
+    "amount": 98.18,
+    "time_date": "12/22/2020"
+  },
+  {
+    "num": 843,
+    "transaction": "Buy",
+    "amount": 84.68,
+    "time_date": "4/4/2021"
+  },
+  {
+    "num": 793,
+    "transaction": "Buy",
+    "amount": 80.77,
+    "time_date": "8/15/2021"
+  },
+  {
+    "num": 403,
+    "transaction": "Buy",
+    "amount": 77.64,
+    "time_date": "11/24/2020"
+  },
+  {
+    "num": 761,
+    "transaction": "Buy",
+    "amount": 56.94,
+    "time_date": "6/18/2021"
+  },
+  {
+    "num": 664,
+    "transaction": "Convert",
+    "amount": 63.36,
+    "time_date": "9/24/2020"
+  },
+  {
+    "num": 705,
+    "transaction": "Buy",
+    "amount": 24.91,
+    "time_date": "12/16/2020"
+  },
+  {
+    "num": 158,
+    "transaction": "Convert",
+    "amount": 61.11,
+    "time_date": "5/2/2021"
+  },
+  {
+    "num": 502,
+    "transaction": "Convert",
+    "amount": 56.65,
+    "time_date": "7/12/2021"
+  },
+  {
+    "num": 974,
+    "transaction": "Convert",
+    "amount": 29.1,
+    "time_date": "4/4/2021"
+  },
+  {
+    "num": 104,
+    "transaction": "Convert",
+    "amount": 25.47,
+    "time_date": "8/1/2021"
+  },
+  {
+    "num": 41,
+    "transaction": "Buy",
+    "amount": 93.37,
+    "time_date": "12/17/2020"
+  },
+  {
+    "num": 343,
+    "transaction": "Buy",
+    "amount": 18.63,
+    "time_date": "7/30/2021"
+  },
+  {
+    "num": 581,
+    "transaction": "Buy",
+    "amount": 49.58,
+    "time_date": "10/31/2020"
+  },
+  {
+    "num": 905,
+    "transaction": "Buy",
+    "amount": 55.58,
+    "time_date": "2/8/2021"
+  },
+  {
+    "num": 702,
+    "transaction": "Convert",
+    "amount": 44.01,
+    "time_date": "2/3/2021"
+  },
+  {
+    "num": 255,
+    "transaction": "Buy",
+    "amount": 76.06,
+    "time_date": "1/22/2021"
+  },
+  {
+    "num": 639,
+    "transaction": "Buy",
+    "amount": 45.1,
+    "time_date": "8/11/2021"
+  },
+  {
+    "num": 148,
+    "transaction": "Convert",
+    "amount": 71.35,
+    "time_date": "12/20/2020"
+  },
+  {
+    "num": 980,
+    "transaction": "Convert",
+    "amount": 33.55,
+    "time_date": "4/30/2021"
+  },
+  {
+    "num": 544,
+    "transaction": "Convert",
+    "amount": 89.66,
+    "time_date": "8/18/2021"
+  },
+  {
+    "num": 948,
+    "transaction": "Convert",
+    "amount": 1.43,
+    "time_date": "8/26/2021"
+  },
+  { "num": 61, "transaction": "Buy", "amount": 82.2, "time_date": "9/29/2020" },
+  {
+    "num": 61,
+    "transaction": "Buy",
+    "amount": 55.13,
+    "time_date": "5/13/2021"
+  },
+  {
+    "num": 742,
+    "transaction": "Convert",
+    "amount": 24.93,
+    "time_date": "2/26/2021"
+  },
+  {
+    "num": 230,
+    "transaction": "Convert",
+    "amount": 17.07,
+    "time_date": "5/4/2021"
+  },
+  {
+    "num": 278,
+    "transaction": "Convert",
+    "amount": 80.59,
+    "time_date": "12/24/2020"
+  },
+  {
+    "num": 268,
+    "transaction": "Convert",
+    "amount": 90.22,
+    "time_date": "9/13/2020"
+  },
+  {
+    "num": 444,
+    "transaction": "Convert",
+    "amount": 38.28,
+    "time_date": "7/25/2021"
+  },
+  {
+    "num": 433,
+    "transaction": "Buy",
+    "amount": 66.06,
+    "time_date": "11/5/2020"
+  },
+  {
+    "num": 134,
+    "transaction": "Convert",
+    "amount": 29.13,
+    "time_date": "11/12/2020"
+  },
+  {
+    "num": 133,
+    "transaction": "Buy",
+    "amount": 9.19,
+    "time_date": "4/16/2021"
+  },
+  {
+    "num": 646,
+    "transaction": "Convert",
+    "amount": 28.26,
+    "time_date": "5/24/2021"
+  },
+  {
+    "num": 261,
+    "transaction": "Buy",
+    "amount": 85.05,
+    "time_date": "1/19/2021"
+  },
+  {
+    "num": 82,
+    "transaction": "Convert",
+    "amount": 79.1,
+    "time_date": "7/27/2021"
+  },
+  {
+    "num": 931,
+    "transaction": "Buy",
+    "amount": 45.89,
+    "time_date": "9/22/2020"
+  },
+  {
+    "num": 63,
+    "transaction": "Buy",
+    "amount": 85.98,
+    "time_date": "8/21/2021"
+  },
+  {
+    "num": 934,
+    "transaction": "Convert",
+    "amount": 89.34,
+    "time_date": "9/20/2020"
+  },
+  { "num": 673, "transaction": "Buy", "amount": 68.4, "time_date": "3/8/2021" },
+  {
+    "num": 819,
+    "transaction": "Buy",
+    "amount": 86.77,
+    "time_date": "12/6/2020"
+  },
+  {
+    "num": 367,
+    "transaction": "Buy",
+    "amount": 42.57,
+    "time_date": "1/26/2021"
+  },
+  {
+    "num": 183,
+    "transaction": "Buy",
+    "amount": 42.32,
+    "time_date": "4/25/2021"
+  },
+  {
+    "num": 544,
+    "transaction": "Convert",
+    "amount": 44.53,
+    "time_date": "2/27/2021"
+  },
+  {
+    "num": 886,
+    "transaction": "Convert",
+    "amount": 91.86,
+    "time_date": "4/8/2021"
+  },
+  {
+    "num": 123,
+    "transaction": "Buy",
+    "amount": 8.34,
+    "time_date": "8/17/2021"
+  },
+  {
+    "num": 451,
+    "transaction": "Buy",
+    "amount": 45.85,
+    "time_date": "2/16/2021"
+  },
+  {
+    "num": 261,
+    "transaction": "Buy",
+    "amount": 86.35,
+    "time_date": "11/6/2020"
+  },
+  {
+    "num": 707,
+    "transaction": "Buy",
+    "amount": 80.5,
+    "time_date": "2/14/2021"
+  },
+  {
+    "num": 223,
+    "transaction": "Buy",
+    "amount": 45.92,
+    "time_date": "9/24/2020"
+  },
+  {
+    "num": 913,
+    "transaction": "Buy",
+    "amount": 12.22,
+    "time_date": "8/17/2021"
+  },
+  {
+    "num": 113,
+    "transaction": "Buy",
+    "amount": 90.34,
+    "time_date": "1/14/2021"
+  },
+  {
+    "num": 25,
+    "transaction": "Buy",
+    "amount": 45.15,
+    "time_date": "1/31/2021"
+  },
+  {
+    "num": 637,
+    "transaction": "Buy",
+    "amount": 93.38,
+    "time_date": "3/2/2021"
+  },
+  {
+    "num": 558,
+    "transaction": "Convert",
+    "amount": 24.94,
+    "time_date": "6/28/2021"
+  },
+  {
+    "num": 778,
+    "transaction": "Convert",
+    "amount": 98.09,
+    "time_date": "9/4/2020"
+  },
+  {
+    "num": 149,
+    "transaction": "Buy",
+    "amount": 96.78,
+    "time_date": "6/22/2021"
+  },
+  { "num": 481, "transaction": "Buy", "amount": 79.6, "time_date": "6/1/2021" },
+  {
+    "num": 948,
+    "transaction": "Convert",
+    "amount": 56.21,
+    "time_date": "2/19/2021"
+  },
+  {
+    "num": 914,
+    "transaction": "Convert",
+    "amount": 62.9,
+    "time_date": "10/31/2020"
+  },
+  {
+    "num": 418,
+    "transaction": "Convert",
+    "amount": 25.47,
+    "time_date": "9/3/2020"
+  },
+  {
+    "num": 656,
+    "transaction": "Convert",
+    "amount": 62.19,
+    "time_date": "3/15/2021"
+  },
+  { "num": 45, "transaction": "Buy", "amount": 7.74, "time_date": "7/22/2021" },
+  {
+    "num": 146,
+    "transaction": "Convert",
+    "amount": 83.7,
+    "time_date": "7/21/2021"
+  },
+  {
+    "num": 515,
+    "transaction": "Buy",
+    "amount": 9.29,
+    "time_date": "1/25/2021"
+  },
+  {
+    "num": 723,
+    "transaction": "Buy",
+    "amount": 2.42,
+    "time_date": "3/26/2021"
+  },
+  {
+    "num": 179,
+    "transaction": "Buy",
+    "amount": 98.66,
+    "time_date": "10/21/2020"
+  },
+  {
+    "num": 228,
+    "transaction": "Convert",
+    "amount": 4.94,
+    "time_date": "11/2/2020"
+  },
+  {
+    "num": 805,
+    "transaction": "Buy",
+    "amount": 82.03,
+    "time_date": "1/20/2021"
+  },
+  {
+    "num": 93,
+    "transaction": "Buy",
+    "amount": 41.26,
+    "time_date": "3/25/2021"
+  },
+  {
+    "num": 680,
+    "transaction": "Convert",
+    "amount": 96.45,
+    "time_date": "11/7/2020"
+  },
+  {
+    "num": 597,
+    "transaction": "Buy",
+    "amount": 71.91,
+    "time_date": "12/12/2020"
+  },
+  {
+    "num": 860,
+    "transaction": "Convert",
+    "amount": 34.1,
+    "time_date": "11/27/2020"
+  },
+  {
+    "num": 951,
+    "transaction": "Buy",
+    "amount": 48.05,
+    "time_date": "3/27/2021"
+  },
+  {
+    "num": 634,
+    "transaction": "Convert",
+    "amount": 75.43,
+    "time_date": "3/5/2021"
+  },
+  {
+    "num": 937,
+    "transaction": "Buy",
+    "amount": 11.14,
+    "time_date": "12/3/2020"
+  },
+  {
+    "num": 318,
+    "transaction": "Convert",
+    "amount": 1.81,
+    "time_date": "10/17/2020"
+  },
+  {
+    "num": 756,
+    "transaction": "Convert",
+    "amount": 71.49,
+    "time_date": "4/17/2021"
+  },
+  {
+    "num": 844,
+    "transaction": "Convert",
+    "amount": 35.76,
+    "time_date": "2/1/2021"
+  },
+  {
+    "num": 497,
+    "transaction": "Buy",
+    "amount": 66.74,
+    "time_date": "4/7/2021"
+  },
+  {
+    "num": 842,
+    "transaction": "Convert",
+    "amount": 73.58,
+    "time_date": "7/26/2021"
+  },
+  {
+    "num": 296,
+    "transaction": "Convert",
+    "amount": 4.13,
+    "time_date": "3/12/2021"
+  },
+  {
+    "num": 698,
+    "transaction": "Convert",
+    "amount": 17.05,
+    "time_date": "10/1/2020"
+  },
+  {
+    "num": 515,
+    "transaction": "Buy",
+    "amount": 72.85,
+    "time_date": "10/26/2020"
+  },
+  {
+    "num": 906,
+    "transaction": "Convert",
+    "amount": 37.41,
+    "time_date": "11/4/2020"
+  },
+  {
+    "num": 331,
+    "transaction": "Buy",
+    "amount": 9.64,
+    "time_date": "5/16/2021"
+  },
+  {
+    "num": 255,
+    "transaction": "Buy",
+    "amount": 13.38,
+    "time_date": "11/10/2020"
+  },
+  {
+    "num": 2,
+    "transaction": "Convert",
+    "amount": 39.32,
+    "time_date": "9/12/2020"
+  },
+  {
+    "num": 720,
+    "transaction": "Convert",
+    "amount": 61.41,
+    "time_date": "5/1/2021"
+  },
+  {
+    "num": 242,
+    "transaction": "Convert",
+    "amount": 48.1,
+    "time_date": "10/7/2020"
+  },
+  { "num": 701, "transaction": "Buy", "amount": 84.8, "time_date": "5/3/2021" },
+  {
+    "num": 949,
+    "transaction": "Buy",
+    "amount": 67.61,
+    "time_date": "7/19/2021"
+  },
+  {
+    "num": 443,
+    "transaction": "Buy",
+    "amount": 93.74,
+    "time_date": "4/11/2021"
+  },
+  {
+    "num": 848,
+    "transaction": "Convert",
+    "amount": 83.79,
+    "time_date": "4/22/2021"
+  },
+  {
+    "num": 140,
+    "transaction": "Convert",
+    "amount": 64.74,
+    "time_date": "7/2/2021"
+  },
+  {
+    "num": 834,
+    "transaction": "Convert",
+    "amount": 16.86,
+    "time_date": "2/23/2021"
+  },
+  {
+    "num": 941,
+    "transaction": "Buy",
+    "amount": 45.93,
+    "time_date": "12/4/2020"
+  },
+  {
+    "num": 714,
+    "transaction": "Convert",
+    "amount": 29.31,
+    "time_date": "8/27/2021"
+  },
+  {
+    "num": 411,
+    "transaction": "Buy",
+    "amount": 16.76,
+    "time_date": "2/11/2021"
+  },
+  {
+    "num": 295,
+    "transaction": "Buy",
+    "amount": 76.41,
+    "time_date": "2/21/2021"
+  },
+  {
+    "num": 710,
+    "transaction": "Convert",
+    "amount": 95.6,
+    "time_date": "8/18/2021"
+  },
+  {
+    "num": 395,
+    "transaction": "Buy",
+    "amount": 92.34,
+    "time_date": "3/24/2021"
+  },
+  {
+    "num": 897,
+    "transaction": "Buy",
+    "amount": 28.47,
+    "time_date": "5/17/2021"
+  },
+  {
+    "num": 537,
+    "transaction": "Buy",
+    "amount": 26.26,
+    "time_date": "11/15/2020"
+  },
+  {
+    "num": 255,
+    "transaction": "Buy",
+    "amount": 76.01,
+    "time_date": "1/6/2021"
+  },
+  {
+    "num": 484,
+    "transaction": "Convert",
+    "amount": 26.55,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 247,
+    "transaction": "Buy",
+    "amount": 29.21,
+    "time_date": "3/11/2021"
+  },
+  {
+    "num": 478,
+    "transaction": "Convert",
+    "amount": 28.93,
+    "time_date": "4/2/2021"
+  },
+  {
+    "num": 359,
+    "transaction": "Buy",
+    "amount": 31.25,
+    "time_date": "9/28/2020"
+  },
+  {
+    "num": 399,
+    "transaction": "Buy",
+    "amount": 15.55,
+    "time_date": "7/17/2021"
+  },
+  {
+    "num": 427,
+    "transaction": "Buy",
+    "amount": 18.65,
+    "time_date": "8/9/2021"
+  },
+  {
+    "num": 413,
+    "transaction": "Buy",
+    "amount": 7.97,
+    "time_date": "6/19/2021"
+  },
+  {
+    "num": 175,
+    "transaction": "Buy",
+    "amount": 80.03,
+    "time_date": "8/18/2021"
+  },
+  {
+    "num": 894,
+    "transaction": "Convert",
+    "amount": 60.55,
+    "time_date": "8/5/2021"
+  },
+  {
+    "num": 240,
+    "transaction": "Convert",
+    "amount": 3.72,
+    "time_date": "10/3/2020"
+  },
+  {
+    "num": 145,
+    "transaction": "Buy",
+    "amount": 91.12,
+    "time_date": "8/30/2020"
+  },
+  {
+    "num": 72,
+    "transaction": "Convert",
+    "amount": 14.03,
+    "time_date": "3/18/2021"
+  },
+  {
+    "num": 493,
+    "transaction": "Buy",
+    "amount": 62.74,
+    "time_date": "1/4/2021"
+  },
+  {
+    "num": 686,
+    "transaction": "Convert",
+    "amount": 25.84,
+    "time_date": "3/9/2021"
+  },
+  {
+    "num": 369,
+    "transaction": "Buy",
+    "amount": 44.45,
+    "time_date": "12/19/2020"
+  },
+  {
+    "num": 536,
+    "transaction": "Convert",
+    "amount": 1.82,
+    "time_date": "10/1/2020"
+  },
+  {
+    "num": 225,
+    "transaction": "Buy",
+    "amount": 32.51,
+    "time_date": "12/7/2020"
+  },
+  {
+    "num": 346,
+    "transaction": "Convert",
+    "amount": 31.28,
+    "time_date": "3/9/2021"
+  },
+  {
+    "num": 940,
+    "transaction": "Convert",
+    "amount": 26.62,
+    "time_date": "5/14/2021"
+  },
+  {
+    "num": 184,
+    "transaction": "Convert",
+    "amount": 2.3,
+    "time_date": "11/10/2020"
+  },
+  {
+    "num": 902,
+    "transaction": "Convert",
+    "amount": 52.74,
+    "time_date": "7/18/2021"
+  },
+  {
+    "num": 963,
+    "transaction": "Buy",
+    "amount": 75.16,
+    "time_date": "11/17/2020"
+  },
+  {
+    "num": 647,
+    "transaction": "Buy",
+    "amount": 49.39,
+    "time_date": "3/23/2021"
+  },
+  {
+    "num": 148,
+    "transaction": "Convert",
+    "amount": 1.21,
+    "time_date": "10/13/2020"
+  },
+  {
+    "num": 263,
+    "transaction": "Buy",
+    "amount": 15.87,
+    "time_date": "11/21/2020"
+  },
+  {
+    "num": 676,
+    "transaction": "Convert",
+    "amount": 65.73,
+    "time_date": "3/2/2021"
+  },
+  {
+    "num": 653,
+    "transaction": "Buy",
+    "amount": 37.51,
+    "time_date": "12/15/2020"
+  },
+  {
+    "num": 330,
+    "transaction": "Convert",
+    "amount": 68.39,
+    "time_date": "12/25/2020"
+  },
+  {
+    "num": 244,
+    "transaction": "Convert",
+    "amount": 59.64,
+    "time_date": "6/7/2021"
+  },
+  {
+    "num": 260,
+    "transaction": "Convert",
+    "amount": 49.6,
+    "time_date": "4/28/2021"
+  },
+  {
+    "num": 129,
+    "transaction": "Buy",
+    "amount": 88.06,
+    "time_date": "11/26/2020"
+  },
+  {
+    "num": 932,
+    "transaction": "Convert",
+    "amount": 31.2,
+    "time_date": "12/8/2020"
+  },
+  {
+    "num": 53,
+    "transaction": "Buy",
+    "amount": 28.06,
+    "time_date": "7/29/2021"
+  },
+  {
+    "num": 430,
+    "transaction": "Convert",
+    "amount": 14.96,
+    "time_date": "9/2/2020"
+  },
+  {
+    "num": 248,
+    "transaction": "Convert",
+    "amount": 62.16,
+    "time_date": "1/19/2021"
+  },
+  {
+    "num": 505,
+    "transaction": "Buy",
+    "amount": 92.53,
+    "time_date": "5/31/2021"
+  },
+  {
+    "num": 654,
+    "transaction": "Convert",
+    "amount": 84.55,
+    "time_date": "9/19/2020"
+  },
+  {
+    "num": 466,
+    "transaction": "Convert",
+    "amount": 36.68,
+    "time_date": "4/26/2021"
+  },
+  {
+    "num": 496,
+    "transaction": "Convert",
+    "amount": 6.68,
+    "time_date": "11/14/2020"
+  },
+  {
+    "num": 121,
+    "transaction": "Buy",
+    "amount": 72.72,
+    "time_date": "10/26/2020"
+  },
+  {
+    "num": 799,
+    "transaction": "Buy",
+    "amount": 45.07,
+    "time_date": "6/9/2021"
+  },
+  {
+    "num": 92,
+    "transaction": "Convert",
+    "amount": 53.14,
+    "time_date": "2/5/2021"
+  },
+  {
+    "num": 640,
+    "transaction": "Convert",
+    "amount": 22.83,
+    "time_date": "3/7/2021"
+  },
+  {
+    "num": 270,
+    "transaction": "Convert",
+    "amount": 38.79,
+    "time_date": "1/2/2021"
+  },
+  {
+    "num": 426,
+    "transaction": "Convert",
+    "amount": 57.38,
+    "time_date": "2/28/2021"
+  },
+  {
+    "num": 996,
+    "transaction": "Convert",
+    "amount": 6.99,
+    "time_date": "5/14/2021"
+  },
+  {
+    "num": 517,
+    "transaction": "Buy",
+    "amount": 66.33,
+    "time_date": "11/8/2020"
+  },
+  {
+    "num": 119,
+    "transaction": "Buy",
+    "amount": 23.1,
+    "time_date": "12/10/2020"
+  },
+  {
+    "num": 578,
+    "transaction": "Convert",
+    "amount": 20.49,
+    "time_date": "8/2/2021"
+  },
+  {
+    "num": 23,
+    "transaction": "Buy",
+    "amount": 96.82,
+    "time_date": "6/25/2021"
+  },
+  {
+    "num": 193,
+    "transaction": "Buy",
+    "amount": 73.67,
+    "time_date": "11/19/2020"
+  },
+  {
+    "num": 864,
+    "transaction": "Convert",
+    "amount": 28.63,
+    "time_date": "5/3/2021"
+  },
+  {
+    "num": 606,
+    "transaction": "Convert",
+    "amount": 59.53,
+    "time_date": "8/27/2021"
+  },
+  {
+    "num": 904,
+    "transaction": "Convert",
+    "amount": 9.57,
+    "time_date": "11/22/2020"
+  },
+  {
+    "num": 957,
+    "transaction": "Buy",
+    "amount": 85.38,
+    "time_date": "9/22/2020"
+  },
+  {
+    "num": 113,
+    "transaction": "Buy",
+    "amount": 38.9,
+    "time_date": "8/30/2020"
+  },
+  {
+    "num": 234,
+    "transaction": "Convert",
+    "amount": 97.39,
+    "time_date": "2/8/2021"
+  },
+  {
+    "num": 909,
+    "transaction": "Buy",
+    "amount": 29.95,
+    "time_date": "12/28/2020"
+  },
+  {
+    "num": 272,
+    "transaction": "Convert",
+    "amount": 80.06,
+    "time_date": "12/8/2020"
+  },
+  {
+    "num": 481,
+    "transaction": "Buy",
+    "amount": 88.73,
+    "time_date": "11/8/2020"
+  },
+  {
+    "num": 581,
+    "transaction": "Buy",
+    "amount": 5.69,
+    "time_date": "11/29/2020"
+  },
+  {
+    "num": 537,
+    "transaction": "Buy",
+    "amount": 23.54,
+    "time_date": "4/3/2021"
+  },
+  {
+    "num": 210,
+    "transaction": "Convert",
+    "amount": 26.76,
+    "time_date": "4/24/2021"
+  },
+  {
+    "num": 586,
+    "transaction": "Convert",
+    "amount": 27.49,
+    "time_date": "6/9/2021"
+  },
+  {
+    "num": 100,
+    "transaction": "Convert",
+    "amount": 5.79,
+    "time_date": "7/30/2021"
+  },
+  {
+    "num": 558,
+    "transaction": "Convert",
+    "amount": 59.92,
+    "time_date": "1/22/2021"
+  },
+  {
+    "num": 142,
+    "transaction": "Convert",
+    "amount": 3.06,
+    "time_date": "6/17/2021"
+  },
+  {
+    "num": 362,
+    "transaction": "Convert",
+    "amount": 71.31,
+    "time_date": "10/2/2020"
+  },
+  {
+    "num": 622,
+    "transaction": "Convert",
+    "amount": 78.16,
+    "time_date": "11/14/2020"
+  },
+  {
+    "num": 466,
+    "transaction": "Convert",
+    "amount": 49.74,
+    "time_date": "4/3/2021"
+  },
+  {
+    "num": 501,
+    "transaction": "Buy",
+    "amount": 2.32,
+    "time_date": "12/6/2020"
+  },
+  {
+    "num": 169,
+    "transaction": "Buy",
+    "amount": 82.91,
+    "time_date": "1/7/2021"
+  },
+  {
+    "num": 172,
+    "transaction": "Convert",
+    "amount": 86.92,
+    "time_date": "7/2/2021"
+  },
+  {
+    "num": 682,
+    "transaction": "Convert",
+    "amount": 96.99,
+    "time_date": "2/8/2021"
+  },
+  {
+    "num": 256,
+    "transaction": "Convert",
+    "amount": 14.98,
+    "time_date": "2/11/2021"
+  },
+  {
+    "num": 538,
+    "transaction": "Convert",
+    "amount": 23.6,
+    "time_date": "11/25/2020"
+  },
+  {
+    "num": 188,
+    "transaction": "Convert",
+    "amount": 36.61,
+    "time_date": "3/24/2021"
+  },
+  {
+    "num": 703,
+    "transaction": "Buy",
+    "amount": 28.54,
+    "time_date": "1/17/2021"
+  },
+  {
+    "num": 329,
+    "transaction": "Buy",
+    "amount": 7.63,
+    "time_date": "2/19/2021"
+  },
+  {
+    "num": 441,
+    "transaction": "Buy",
+    "amount": 56.52,
+    "time_date": "6/25/2021"
+  },
+  {
+    "num": 681,
+    "transaction": "Buy",
+    "amount": 13.91,
+    "time_date": "7/18/2021"
+  },
+  {
+    "num": 29,
+    "transaction": "Buy",
+    "amount": 89.35,
+    "time_date": "2/25/2021"
+  },
+  {
+    "num": 542,
+    "transaction": "Convert",
+    "amount": 91.91,
+    "time_date": "11/3/2020"
+  },
+  {
+    "num": 458,
+    "transaction": "Convert",
+    "amount": 5.63,
+    "time_date": "5/19/2021"
+  },
+  {
+    "num": 697,
+    "transaction": "Buy",
+    "amount": 40.62,
+    "time_date": "2/10/2021"
+  },
+  {
+    "num": 173,
+    "transaction": "Buy",
+    "amount": 71.62,
+    "time_date": "11/15/2020"
+  },
+  {
+    "num": 666,
+    "transaction": "Convert",
+    "amount": 71.08,
+    "time_date": "10/19/2020"
+  },
+  {
+    "num": 516,
+    "transaction": "Convert",
+    "amount": 81.08,
+    "time_date": "3/10/2021"
+  },
+  {
+    "num": 453,
+    "transaction": "Buy",
+    "amount": 98.59,
+    "time_date": "7/30/2021"
+  },
+  {
+    "num": 205,
+    "transaction": "Buy",
+    "amount": 95.28,
+    "time_date": "10/28/2020"
+  },
+  {
+    "num": 825,
+    "transaction": "Buy",
+    "amount": 96.31,
+    "time_date": "4/10/2021"
+  },
+  {
+    "num": 910,
+    "transaction": "Convert",
+    "amount": 30.56,
+    "time_date": "8/5/2021"
+  },
+  {
+    "num": 711,
+    "transaction": "Buy",
+    "amount": 9.98,
+    "time_date": "8/11/2021"
+  },
+  {
+    "num": 781,
+    "transaction": "Buy",
+    "amount": 27.94,
+    "time_date": "6/22/2021"
+  },
+  {
+    "num": 39,
+    "transaction": "Buy",
+    "amount": 54.96,
+    "time_date": "4/10/2021"
+  },
+  {
+    "num": 341,
+    "transaction": "Buy",
+    "amount": 36.53,
+    "time_date": "11/3/2020"
+  },
+  {
+    "num": 4,
+    "transaction": "Convert",
+    "amount": 6.5,
+    "time_date": "6/3/2021"
+  },
+  {
+    "num": 182,
+    "transaction": "Convert",
+    "amount": 4.94,
+    "time_date": "6/18/2021"
+  },
+  {
+    "num": 840,
+    "transaction": "Convert",
+    "amount": 32.13,
+    "time_date": "12/3/2020"
+  },
+  {
+    "num": 330,
+    "transaction": "Convert",
+    "amount": 77.95,
+    "time_date": "11/1/2020"
+  },
+  {
+    "num": 737,
+    "transaction": "Buy",
+    "amount": 6.83,
+    "time_date": "10/13/2020"
+  },
+  {
+    "num": 799,
+    "transaction": "Buy",
+    "amount": 57.84,
+    "time_date": "12/4/2020"
+  },
+  {
+    "num": 112,
+    "transaction": "Convert",
+    "amount": 79.04,
+    "time_date": "11/2/2020"
+  },
+  {
+    "num": 676,
+    "transaction": "Convert",
+    "amount": 55.37,
+    "time_date": "8/21/2021"
+  },
+  {
+    "num": 505,
+    "transaction": "Buy",
+    "amount": 28.26,
+    "time_date": "3/8/2021"
+  },
+  {
+    "num": 365,
+    "transaction": "Buy",
+    "amount": 99.26,
+    "time_date": "1/8/2021"
+  },
+  {
+    "num": 869,
+    "transaction": "Buy",
+    "amount": 24.13,
+    "time_date": "5/10/2021"
+  },
+  {
+    "num": 343,
+    "transaction": "Buy",
+    "amount": 59.32,
+    "time_date": "5/29/2021"
+  },
+  {
+    "num": 173,
+    "transaction": "Buy",
+    "amount": 75.06,
+    "time_date": "2/27/2021"
+  },
+  {
+    "num": 425,
+    "transaction": "Buy",
+    "amount": 46.15,
+    "time_date": "5/20/2021"
+  },
+  {
+    "num": 370,
+    "transaction": "Convert",
+    "amount": 15.65,
+    "time_date": "9/24/2020"
+  },
+  {
+    "num": 566,
+    "transaction": "Convert",
+    "amount": 31.1,
+    "time_date": "7/25/2021"
+  },
+  {
+    "num": 341,
+    "transaction": "Buy",
+    "amount": 6.77,
+    "time_date": "7/10/2021"
+  },
+  {
+    "num": 360,
+    "transaction": "Convert",
+    "amount": 14.77,
+    "time_date": "1/25/2021"
+  },
+  {
+    "num": 314,
+    "transaction": "Convert",
+    "amount": 39.1,
+    "time_date": "9/12/2020"
+  },
+  {
+    "num": 252,
+    "transaction": "Convert",
+    "amount": 35.03,
+    "time_date": "9/10/2020"
+  },
+  {
+    "num": 891,
+    "transaction": "Buy",
+    "amount": 57.62,
+    "time_date": "12/13/2020"
+  },
+  {
+    "num": 337,
+    "transaction": "Buy",
+    "amount": 68.23,
+    "time_date": "12/2/2020"
+  },
+  {
+    "num": 836,
+    "transaction": "Convert",
+    "amount": 7.74,
+    "time_date": "8/4/2021"
+  },
+  {
+    "num": 826,
+    "transaction": "Convert",
+    "amount": 89.83,
+    "time_date": "6/14/2021"
+  },
+  {
+    "num": 30,
+    "transaction": "Convert",
+    "amount": 20.0,
+    "time_date": "9/23/2020"
+  },
+  {
+    "num": 712,
+    "transaction": "Convert",
+    "amount": 80.98,
+    "time_date": "5/10/2021"
+  },
+  {
+    "num": 192,
+    "transaction": "Convert",
+    "amount": 41.9,
+    "time_date": "3/7/2021"
+  },
+  { "num": 469, "transaction": "Buy", "amount": 5.43, "time_date": "9/1/2020" },
+  {
+    "num": 959,
+    "transaction": "Buy",
+    "amount": 45.72,
+    "time_date": "2/18/2021"
+  },
+  {
+    "num": 154,
+    "transaction": "Convert",
+    "amount": 97.56,
+    "time_date": "2/6/2021"
+  },
+  {
+    "num": 37,
+    "transaction": "Buy",
+    "amount": 26.86,
+    "time_date": "5/16/2021"
+  },
+  {
+    "num": 687,
+    "transaction": "Buy",
+    "amount": 16.32,
+    "time_date": "8/7/2021"
+  },
+  {
+    "num": 406,
+    "transaction": "Convert",
+    "amount": 25.21,
+    "time_date": "10/5/2020"
+  },
+  {
+    "num": 313,
+    "transaction": "Buy",
+    "amount": 83.04,
+    "time_date": "5/30/2021"
+  },
+  {
+    "num": 180,
+    "transaction": "Convert",
+    "amount": 88.25,
+    "time_date": "10/5/2020"
+  },
+  {
+    "num": 671,
+    "transaction": "Buy",
+    "amount": 20.43,
+    "time_date": "12/12/2020"
+  },
+  {
+    "num": 751,
+    "transaction": "Buy",
+    "amount": 49.18,
+    "time_date": "12/3/2020"
+  },
+  {
+    "num": 842,
+    "transaction": "Convert",
+    "amount": 49.71,
+    "time_date": "10/5/2020"
+  },
+  {
+    "num": 741,
+    "transaction": "Buy",
+    "amount": 49.5,
+    "time_date": "7/30/2021"
+  },
+  {
+    "num": 812,
+    "transaction": "Convert",
+    "amount": 81.56,
+    "time_date": "1/28/2021"
+  },
+  {
+    "num": 163,
+    "transaction": "Buy",
+    "amount": 75.05,
+    "time_date": "11/27/2020"
+  },
+  {
+    "num": 171,
+    "transaction": "Buy",
+    "amount": 36.34,
+    "time_date": "2/25/2021"
+  },
+  {
+    "num": 428,
+    "transaction": "Convert",
+    "amount": 27.06,
+    "time_date": "6/10/2021"
+  },
+  {
+    "num": 613,
+    "transaction": "Buy",
+    "amount": 40.71,
+    "time_date": "8/9/2021"
+  },
+  { "num": 33, "transaction": "Buy", "amount": 8.96, "time_date": "8/28/2021" },
+  {
+    "num": 780,
+    "transaction": "Convert",
+    "amount": 34.39,
+    "time_date": "9/11/2020"
+  },
+  {
+    "num": 859,
+    "transaction": "Buy",
+    "amount": 99.55,
+    "time_date": "7/6/2021"
+  },
+  {
+    "num": 743,
+    "transaction": "Buy",
+    "amount": 76.38,
+    "time_date": "10/5/2020"
+  },
+  {
+    "num": 177,
+    "transaction": "Buy",
+    "amount": 20.38,
+    "time_date": "7/16/2021"
+  },
+  {
+    "num": 948,
+    "transaction": "Convert",
+    "amount": 4.0,
+    "time_date": "10/12/2020"
+  }
+]

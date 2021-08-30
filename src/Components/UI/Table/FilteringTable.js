@@ -68,17 +68,6 @@ const FilteringTable = () => {
             );
           })}
         </tbody>
-        <tfoot>
-          {footerGroups.map((footerGroup) => {
-            return (
-              <tr {...footerGroup.getFooterGroupProps()}>
-                {footerGroup.headers.map((column) => (
-                  <td {...column.getFooterProps}>{column.render("Footer")}</td>
-                ))}
-              </tr>
-            );
-          })}
-        </tfoot>
       </table>
     </div>
   );
