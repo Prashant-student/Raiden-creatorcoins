@@ -3,7 +3,7 @@ import React from 'react';
 import * as NumericInput from "react-numeric-input";
 import { useState } from 'react';
 import { withRouter } from "react-router";
-import "./CBSignUp.css"
+import "./SignUp/CBSignUp.css"
 
 
 import useInput from "./Validation";

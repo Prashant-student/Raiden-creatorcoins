@@ -2,7 +2,7 @@ import { Container } from '@material-ui/core';
 import React from 'react';
 import * as NumericInput from "react-numeric-input";
 import { useState } from 'react';
-import "./CBSignUp.css"
+import "./SignUp/CBSignUp.css"
 
 
 import useInput from "./Validation";
