@@ -4,14 +4,16 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import Navbar from "./Components/Layout/Navbar/Navbar";
 
-import Home from "./Components/Pages/Home";
-import Buy from "./Components/Pages/Buy";
-import Sell from "./Components/Pages/Sell";
-import Creator from "./Components/Pages/Creator";
-import CreatorSignUp from "./Components/Pages/SignUp/creatorSignUp";
-import SignIn from "./Components/Pages/SignIn/SignIn";
+import Home from './Components/Pages/Home';
+import Buy from './Components/Pages/Buy';
+import Sell from './Components/Pages/Sell';
+import Creator from './Components/Pages/Creator';
+import CreatorSignUp from './Components/Pages/CreatorSignUpPersonalDetails'
+import SignIn from './Components/Pages/SignIn';
 import BuyerSignUp from "./Components/Pages/SignUp/BuyerSignUP";
-import SignUp from "./Components/Pages/SignUp/SignUp";
+import SignUp from "./Components/Pages/SignUp/SignUp"
+import CoinDetails from "./Components/Pages/CoinDetails";
+import Password from "./Components/Pages/Password"
 import BuyDetail from "./Components/Pages/BuyDetail";
 function App() {
   return (
@@ -27,6 +29,10 @@ function App() {
         <Route path="/sign-in" exact component={SignIn} />
         <Route path="/buyerSignUp" exact component={BuyerSignUp} />
         <Route path="/SignUp" exact component={SignUp} />
+        <Route path="/CoinDetails" exact component={CoinDetails} />
+        <Route path="/Password" exact component={Password} />
+
+
       </Switch>
     </BrowserRouter>
   );

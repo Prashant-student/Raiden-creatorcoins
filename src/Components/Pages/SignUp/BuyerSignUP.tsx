@@ -4,101 +4,128 @@ import React from "react";
 import { useState } from "react";
 import "./CBSignUp.css";
 
-const BuyerSignUp = () => {
-  const [values, setValues] = useState({
-    name: "",
-    lastname: "",
-    email: "",
-    password: "",
-  });
 
-  const handelClick = () => {
-    console.log(values);
+import useInput from "../Validation";
+
+// let pasw = new RegExp( /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{7,15}$/);
+
+const isNotEmpty = (value:any) => value.trim() !== "";
+const isEmail = (value:any) => value.includes("@" && ".");
+const isPassword = (value:any) => value.trim().length >6;
+
+
+const BuyerSignUp = (props:any) => {
+  const {
+    value: FullnameValue,
+    isValid: FullnameIsValid,
+    hasError: FullnameHasError,
+    valueChangeHandler: FullnameChangeHandler,
+    inputBlurHandler: FullnameBlurHandler,
+    //reset: resetFirstName,
+  } = useInput(isNotEmpty);
+  const {
+    value: UsernameValue,
+    isValid: UsernameIsValid,
+    hasError: UsernameHasError,
+    valueChangeHandler: UsernameChangeHandler,
+    inputBlurHandler: UsernameBlurHandler,
+    //reset: resetFirstName,
+  } = useInput(isNotEmpty);
+  const {
+    value: emailValue,
+    isValid: emailIsValid,
+    hasError: emailHasError,
+    valueChangeHandler: emailChangeHandler,
+    inputBlurHandler: emailBlurHandler,
+    //reset: resetFirstName,
+  } = useInput(isEmail); 
+  const {
+    value: passwordValue,
+    isValid: passwordIsValid,
+    hasError: passwordHasError,
+    valueChangeHandler: passwordChangeHandler,
+    inputBlurHandler: passwordBlurHandler,
+    //reset: resetFirstName,
+  } = useInput(isPassword);
+
+
+  let formIsValid = false;
+    
+    if (FullnameIsValid && UsernameIsValid && emailIsValid && passwordIsValid) {
+    formIsValid = true;
+  }
+
+  const submitHandler = (event:any) => {
+    event.preventDefault();
+
+    if (!formIsValid) {
+      return;
+    }
+
+    console.log("Submitted!");
+    console.log(FullnameValue, UsernameValue, emailValue);
+
+    // resetFirstName();
+    // resetLastName();
+    // resetEmail();
   };
 
-  const handleChange = (event: any) => {
-    setValues({
-      ...values,
-      [event.target.name]: event.target.value,
-    });
-  };
+  const FullnameClasses = FullnameHasError
+    ? "form-control invalid"
+    : "form-control";
+  const UsernameClasses = UsernameHasError
+    ? "form-control invalid"
+    : "form-control";
+  const emailClasses = emailHasError ? "form-control invalid" : "form-control";
 
   return (
     <div
       className="signUp"
       style={{
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        height: "90vh",
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        height: '100%',
       }}
     >
       <Container className="signUpForm">
         <form>
-          <div className="name">
+          <div className="Fullname">
             <label>Name:</label>
-            <input
-              className="input"
-              type="text"
-              placeholder="name"
-              name="name"
-              onChange={handleChange}
-              value={values.name}
-            />
+            <input className="input" type="text" placeholder="Fullname" name="name" 
+            onChange={FullnameChangeHandler} value={FullnameValue}  />
+            {FullnameHasError && (
+          <p className="error-text">Please enter a name.</p>
+        )}
           </div>
-          <div className="lastname">
+          <div className="Username">
             <label>Last Name:</label>
-            <input
-              className="input"
-              type="text"
-              placeholder="lastname"
-              name="lastname"
-              onChange={handleChange}
-              value={values.lastname}
-            />
+            <input className="input" type="text" placeholder="Username" name="lastname" 
+            onChange={UsernameChangeHandler} value={UsernameValue}  />
+            {UsernameHasError && (
+          <p className="error-text">Please enter a username.</p>
+        )}
           </div>
           <div className="email">
             <label>Email:</label>
-            <input
-              className="input"
-              type="email"
-              placeholder="email"
-              name="email"
-              onChange={handleChange}
-              value={values.email}
-            />
-          </div>
-          {/* <div className="socialcoins">
-            <label>Purpose of creating coins:</label>
-            <input className="input" type="text" placeholder="purpose of coins" name="socialcoins" onChange={handleChange} value={values.socialcoins} />
-          </div>
-          <div className="members">
-            <label>Membres in team:</label>
-            <input className="input" type="number" placeholder="no of members" name="members" onChange={handleChange} value={values.members} />
-          </div>
-          <div className="followers">
-            <label>No of followers:</label>
-            <input className="input" type="number" placeholder="no of followers" name="followers" onChange={handleChange} value={values.followers} />
-          </div>
-          <div className="platforms">
-            <label>Platforms having followers:</label>
-            <input className="input" type="text" placeholder="platforms having followers" name="platforms" onChange={handleChange} value={values.platforms} />
-          </div> */}
+            <input className="input" type="email" placeholder="email" name="email" 
+            onChange={emailChangeHandler} value={emailValue}  />
+            {emailHasError && (
+          <p className="error-text">Please enter a valid email address.</p>
+        )}
+          </div>               
           <div className="password">
             <label>Password:</label>
-            <input
-              className="input"
-              type="password"
-              placeholder="password"
-              name="password"
-              onChange={handleChange}
-              value={values.password}
-            />
+            <input className="input" type="password" placeholder="password" name="password" 
+            onChange={passwordChangeHandler} value={passwordValue}  />
+            {passwordHasError && (
+          <p className="error-text">Please enter a password more than 6 characters.</p>
+        )}
           </div>
         </form>
         <br />
         <div className="submitButton">
-          <button className="submit" color="primary" onClick={handelClick}>
+          <button className="submit" color="primary" disabled={!formIsValid}>
             Submit
           </button>
         </div>
