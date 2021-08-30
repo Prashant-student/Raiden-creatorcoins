@@ -1,24 +1,21 @@
-.signInForm{
-    height: 500px;
-    float: right;
-    padding-right: 20px;
+.signInFormGridChild{
+    height: 500px;      
     margin-right: 20px;
     border: 2px solid black;
-    border-radius: 15px;
-    padding: 25px;
+    border-radius: 15px;    
     margin-top: 50;
-    width: fit-content;
+    width: 30vw;
     background-color: black ;
+    padding-top: 40px;
+
   }
-  .signInButton{
-    text-align: center;
-    padding-top: 60px;
-  }
+  
+  
   .gridContainer{
     
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 300px;
+    grid-template-columns: auto auto;
+    grid-gap: 200px;
   }
   .gridChild1{
     padding-top: 50px;
@@ -27,15 +24,21 @@
     font-size: xx-large;
     text-align: center;  
     border-radius: 15px;
+    width: fit-content;
   }
   .Raiden{
     font-size: 150px;
     padding-top: 0px;
     color: cyan;
   }
-  .newAccount{
-    text-align: center;
-    color: cyan;
-    text-decoration: none;
-    padding-top: 80px;
-  }
+  .BtnSignIn{
+    padding: 10px;
+    border-radius: 10px;
+    width: 10rem;
+    background-color: cyan;
+}
+.btn{
+  padding-top: 60px;
+  padding-left: 80px;
+
+}
