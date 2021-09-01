@@ -1,12 +1,13 @@
 import React from "react";
 import "./App.scss";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-
-import Navbar from "./Components/Layout/Navbar/Navbar";
+// @ts-ignore
+import Navbar from "./Components/Layout/Navbar/Navbar"
 
 import Home from './Components/Pages/Home';
 import Buy from './Components/Pages/Buy';
 import Sell from './Components/Pages/Sell';
+// @ts-ignore
 import Creator from './Components/Pages/Creator';
 import CreatorSignUp from './Components/Pages/CreatorSignUpPersonalDetails'
 import SignIn from './Components/Pages/SignIn';
