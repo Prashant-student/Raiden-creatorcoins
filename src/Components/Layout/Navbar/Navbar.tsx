@@ -17,7 +17,10 @@ import {
   WalletDisconnectButton,
   WalletMultiButton,
 } from '@solana/wallet-adapter-material-ui';
-import { clusterApiUrl } from '@solana/web3.js';
+import { WalletNotConnectedError } from "@solana/wallet-adapter-base";
+import { useConnection, useWallet } from '@solana/wallet-adapter-react';
+import { Keypair, SystemProgram, Transaction, clusterApiUrl } from '@solana/web3.js';
+
 const Navbar = () => {
     const wallets = useMemo(() => [
     getPhantomWallet(),
@@ -33,8 +36,9 @@ const Navbar = () => {
     getBitpieWallet(),
   ], []);
 
-  // Set to 'devnet' | 'testnet' | 'mainnet-beta' or provide a custom RPC endpoint
   const endpoint = useMemo(() => clusterApiUrl(), []);
+
+  const { connected } = useWallet();
   return (
       <>
         <Nav>
@@ -58,13 +62,12 @@ const Navbar = () => {
             <NavBtnLink className="poppins" to="/sign-in">
               Sign In
             </NavBtnLink>
-              <div className="px-3"><ConnectionProvider endpoint={endpoint}>
-                  <WalletProvider wallets={wallets} autoConnect>
+              <div className="px-3">
                       <WalletDialogProvider>
                           <WalletMultiButton/>
+                          {connected ? <WalletDisconnectButton /> : null}
                       </WalletDialogProvider>
-                  </WalletProvider>
-              </ConnectionProvider></div>
+                  </div>
           </NavMenu>
           {/* <NavBtn>
           <NavBtnLink to="/signin">Sign In</NavBtnLink>
