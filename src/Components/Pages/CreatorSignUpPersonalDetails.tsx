@@ -73,17 +73,18 @@ const CreatorSignUp = (props: any) => {
   return (
     <div className="signUp"
       style={{
-        // display: 'flex',
+        display: 'flex',
+        flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
         height: '100%',
       }}
     >
       <div className="headingInfo"><p>Personal Details</p></div>
-      <Container className="signUpForm">
+      <div className="signUpForm">
         <form>
           <div className="Fullname">
-            <label>Name:</label>
+            <label>Full Name:</label>
             <input className="input" type="text" placeholder="Fullname" name="name"
               onChange={FullnameChangeHandler} value={FullnameValue} />
             {FullnameHasError && (
@@ -91,7 +92,7 @@ const CreatorSignUp = (props: any) => {
             )}
           </div>
           <div className="Username">
-            <label>Last Name:</label>
+            <label>User Name:</label>
             <input className="input" type="text" placeholder="Username" name="lastname"
               onChange={UsernameChangeHandler} value={UsernameValue} />
             {UsernameHasError && (
@@ -115,7 +116,7 @@ const CreatorSignUp = (props: any) => {
 
         </div>
 
-      </Container>
+      </div>
     </div>
 
   );

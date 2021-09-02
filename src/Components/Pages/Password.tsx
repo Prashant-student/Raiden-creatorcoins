@@ -69,14 +69,14 @@ const CreatorSignUp = (props: any) => {
   return (
     <div className="signUp"
       style={{
-        // display: 'flex',
+        display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
         height: '100%',
       }}
     >
       <div className="headingInfo"><p>Password</p></div>
-      <Container className="signUpForm">
+      <div className="signUpForm">
         <form>          
           <div className="password">
             <label>Password:</label>
@@ -103,7 +103,7 @@ const CreatorSignUp = (props: any) => {
 
         </div>
 
-      </Container>
+      </div>
     </div>
 
   );

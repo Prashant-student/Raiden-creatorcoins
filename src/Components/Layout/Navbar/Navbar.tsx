@@ -13,8 +13,8 @@ const Navbar = () => {
           <NavLink className="poppins" to="/buy">
             Buy
           </NavLink>
-          <NavLink className="poppins" to="/sell">
-            Sell
+          <NavLink className="poppins" to="/BuyerProfile">
+            BuyerProfile
           </NavLink>
           <NavLink className="poppins" to="/creator">
             Creator

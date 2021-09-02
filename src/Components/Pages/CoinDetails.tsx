@@ -46,12 +46,20 @@ const CoinDetails = (props:any) => {
     // inputBlurHandler: platformsBlurHandler,
     //reset: resetFirstName,
   } = useInput(isNotEmpty);
+  const {
+    value: tokenValue,
+    isValid: tokenIsValid,
+    hasError: tokenHasError,
+    valueChangeHandler: tokenChangeHandler,
+    // inputBlurHandler: platformsBlurHandler,
+    //reset: resetFirstName,
+  } = useInput(isNotEmpty);
  
 
 
   let formIsValid = false;
     
-    if (socialcoinsIsValid && membersIsValid && followersIsValid && platformsIsValid ) {
+    if (socialcoinsIsValid && membersIsValid && followersIsValid && platformsIsValid && tokenIsValid ) {
     formIsValid = true;
   }
 
@@ -63,7 +71,7 @@ const CoinDetails = (props:any) => {
     }
 
     console.log("Submitted!");
-    console.log(socialcoinsValue, membersValue, followersValue, platformsValue);
+    console.log(socialcoinsValue, membersValue, followersValue, platformsValue, tokenValue);
 
     // resetFirstName();
     // resetLastName();
@@ -86,14 +94,14 @@ const CoinDetails = (props:any) => {
   return (
     <div className="signUp"
       style={{
-        // display: 'flex',
+        display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
         height: '100%',
       }}
     >
       <div className="headingInfo"><p> Coin Details</p></div>
-      <Container className="signUpForm">
+      <div className="signUpForm">
         <form>          
           <div className="socialcoins">
             <label>Purpose of creating coins:</label>
@@ -101,6 +109,14 @@ const CoinDetails = (props:any) => {
             onChange={socialcoinsChangeHandler} value={socialcoinsValue}  />
              {socialcoinsHasError && (
           <p className="error-text">Please enter a valid purpose for creating coins.</p>
+        )}
+          </div>
+          <div className="token">
+            <label>Coin Token:</label>
+            <input className="input" type="text" placeholder="Token" name="token" 
+            onChange={tokenChangeHandler} value={tokenValue}  />
+             {tokenHasError && (
+          <p className="error-text">Please enter a Coin Token.</p>
         )}
           </div>
           <div className="members">
@@ -138,7 +154,7 @@ const CoinDetails = (props:any) => {
           
         </div>
 
-      </Container>
+      </div>
     </div>
 
   );

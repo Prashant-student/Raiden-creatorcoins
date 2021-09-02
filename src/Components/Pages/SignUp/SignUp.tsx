@@ -35,7 +35,7 @@ const SignUp = () => {
             className="Btn"
           >
             <Link
-              to="CreatorSignUp"
+              to="/CreatorSignUpPersonalDetails"
               style={{
                 color: "black",
                 textDecoration: "none",

@@ -88,7 +88,8 @@ const BuyerSignUp = (props:any) => {
         height: '100%',
       }}
     >
-      <Container className="signUpForm">
+      <div className="signUpForm">
+        <div className="headingInfo">Register</div>
         <form>
           <div className="Fullname">
             <label>Name:</label>
@@ -129,7 +130,7 @@ const BuyerSignUp = (props:any) => {
             Submit
           </button>
         </div>
-      </Container>
+      </div>
     </div>
   );
 };

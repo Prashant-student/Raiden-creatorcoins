@@ -7,6 +7,8 @@ import Container from "@material-ui/core/Container";
 import Grid from "@material-ui/core/Grid";
 import TopRanking from "../UI/Table/TopRanking";
 import { Link } from "react-router-dom";
+import Coin from "./Coin";
+import { Divider } from "material-ui";
 
 const hero_img = sitting;
 
@@ -28,6 +30,9 @@ const Hero = () => {
       <Grid item xs={6} className={classes.hero_img}>
         <img src={hero_img} alt="hero" className={classes.hero_img} />
       </Grid>
+      <div className={classes.coinPosition}>
+        <Coin />
+      </div>
     </Grid>
   );
 };
@@ -64,8 +69,15 @@ const Content = () => {
         </Grid>
         <Grid item xs={6} className={classes.btn}>
           <Button variant="contained" color="primary">
-            Creator
-          </Button>
+          <Link
+              to="/Creator"
+              style={{
+                textDecoration: "none",
+                color: "white",
+              }}
+            >
+              Creator
+            </Link>          </Button>
         </Grid>
       </Grid>
       <Grid item xs={12} className={classes.para}>
@@ -76,6 +88,7 @@ const Content = () => {
           controlled by you and your community,not us as a network
         </p>
       </Grid>
+      
     </Grid>
   );
 };

@@ -7,7 +7,7 @@ import { COLUMNS } from "./Columns";
 import Filter from "../Filter";
 import "./Table.css";
 
-const FilteringTable = () => {
+const CreatorFilteringTable = () => {
   //prevents from rendering the logic every after reload
   const columns = useMemo(() => COLUMNS, []);
   const data = useMemo(() => MOCK_DATA, []);
@@ -53,7 +53,7 @@ const FilteringTable = () => {
                   return (
                     <td {...cell.getCellProps()}>                      
                       <Link
-                        to="/buyDetail"
+                        to="/CreatorProfileUserVisible"
                         
                         style={{
                           color: "Black",
@@ -74,4 +74,4 @@ const FilteringTable = () => {
   );
 };
 
-export default FilteringTable;
+export default CreatorFilteringTable;

@@ -3,10 +3,10 @@ import React from 'react';
 import * as NumericInput from "react-numeric-input";
 import { useState } from 'react';
 import { withRouter } from "react-router";
-import "./SignIn/SignIn.css"
+import "./SignIn.css"
 
 
-import useInput from "./Validation";
+import useInput from "../Validation";
 import { Link } from 'react-router-dom';
 
 const isNotEmpty = (value: any) => value.trim() !== "";
@@ -117,8 +117,42 @@ const SignIn = (props: any) => {
                 <button className="BtnSignIn" color="primary" disabled={!formIsValid}>Sign In</button>
               </Link>
             </div>
+
           </Container>
         </div>
+        <div className="btn">
+              <Link to="/CreatorProfile" style={{
+                color: "black",
+                textDecoration: "none",
+                padding: "10px",
+                textAlign: "center"
+                
+              }}>
+                <button className="BtnSignIn" color="primary" >Creator Profile</button>
+              </Link>
+            </div>
+            <div className="btn">
+              <Link to="/CreatorProfileUserVisible" style={{
+                color: "black",
+                textDecoration: "none",
+                padding: "10px",
+                textAlign: "center"
+                
+              }}>
+                <button className="BtnSignIn" color="primary" >Creator Profile User Visible</button>
+              </Link>
+            </div>
+            <div className="btn">
+              <Link to="/BuyerProfile" style={{
+                color: "black",
+                textDecoration: "none",
+                padding: "10px",
+                textAlign: "center"
+                
+              }}>
+                <button className="BtnSignIn" color="primary" >Buyer Profile</button>
+              </Link>
+            </div>
       </div>
 
 

@@ -1,0 +1,13 @@
+.ProfileTable{
+    width: 50vw;    
+}
+.MainTable{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+.Table{
+    background-color: blueviolet !important;
+}
