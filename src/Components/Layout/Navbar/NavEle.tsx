@@ -8,12 +8,13 @@ export const Nav = styled.nav`
   display: flex;
   justify-content: space-between;
   padding: 0.5rem;
-  z-index: 10;
+  z-index: 100;
   /* Third Nav */
   /* justify-content: flex-start; */
 `;
 
 export const NavLink = styled(Link)`
+  z-index: 40;
   color: #fff;
   display: flex;
   align-items: center;

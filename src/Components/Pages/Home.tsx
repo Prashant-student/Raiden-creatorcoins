@@ -8,7 +8,7 @@ import React, {
 
 import { Link } from "react-router-dom";
 
-import { Parallax, ParallaxLayer, IParallax } from "@react-spring/parallax";
+import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 import {
   useTrail,
   a,
@@ -216,21 +216,9 @@ const Home = () => {
     <Container className={classes.container}>
       <Grid container spacing={3} direction="column">
         <Parallax pages={3} style={{ top: "0", left: "0" }}>
-          <ParallaxLayer
-            offset={0}
-            speed={2.5}
-            style={{
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-
-              marginTop: "5rem",
-            }}
-          >
-            <Grid container item>
-              <Hero />
-            </Grid>
-          </ParallaxLayer>
+          <Grid container item>
+            <Hero />
+          </Grid>
           <ParallaxLayer
             offset={1}
             speed={2}

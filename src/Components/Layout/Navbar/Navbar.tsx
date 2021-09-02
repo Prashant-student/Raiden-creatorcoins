@@ -1,12 +1,14 @@
 import React from "react";
 import { Nav, NavLink, Bars, NavMenu, NavBtnLink } from "./NavEle";
+import logo from "../../../assets/icons/logo.png";
 
 const Navbar = () => {
+  const icon = logo;
   return (
     <>
       <Nav>
         <NavLink className="playfair" to="/">
-          <h1>Logo</h1>
+          <img src={icon} width="50" height="50" alt="icon" />
         </NavLink>
         <Bars />
         <NavMenu>
