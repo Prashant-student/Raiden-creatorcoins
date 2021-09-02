@@ -1,51 +1,57 @@
-import React from "react";
+import React, {
+  useRef,
+  useState,
+  useCallback,
+  CSSProperties,
+  useEffect,
+} from "react";
 
-import classes from "./Home.module.css";
-import sitting from "../../assets/images/sitting.svg";
-import Button from "@material-ui/core/Button";
-import Container from "@material-ui/core/Container";
-import Grid from "@material-ui/core/Grid";
-import TopRanking from "../UI/Table/TopRanking";
 import { Link } from "react-router-dom";
-import Coin from "./Coin";
-import { Divider } from "material-ui";
 
+import { Parallax, ParallaxLayer, IParallax } from "@react-spring/parallax";
+import {
+  useTrail,
+  a,
+  useTransition,
+  animated,
+  AnimatedProps,
+  useSpringRef,
+} from "@react-spring/web";
+
+import { Button, Container, Grid } from "@material-ui/core";
+
+import Coin from "./Coin";
+import TopRanking from "../UI/Table/TopRanking";
+import classes from "./Home.module.css";
+
+import sitting from "../../assets/images/sitting.svg";
 const hero_img = sitting;
 
-const Hero = () => {
+const Trail: React.FC<{ open: boolean }> = ({ open, children }) => {
+  const items = React.Children.toArray(children);
+  const trail = useTrail(items.length, {
+    config: { mass: 5, tension: 2000, friction: 200 },
+    opacity: open ? 1 : 0,
+    x: open ? 0 : 20,
+    height: open ? 110 : 0,
+    from: { opacity: 0, x: 20, height: 0 },
+  });
   return (
-    <Grid
-      container
-      spacing={3}
-      justifyContent="center"
-      alignItems="center"
-      className={classes.hero}
-    >
-      <Grid item xs={6} className={classes.text}>
-        <p className={classes.para}>
-          <span className="playfair">Raiden </span>
-          is blockchain infrastructure for social money.
-        </p>
-      </Grid>
-      <Grid item xs={6} className={classes.hero_img}>
-        <img src={hero_img} alt="hero" className={classes.hero_img} />
-      </Grid>
-      <div className={classes.coinPosition}>
-        <Coin />
-      </div>
-    </Grid>
+    <div>
+      {trail.map(({ height, ...style }, index) => (
+        <a.div key={index} className={classes.trailsText} style={style}>
+          <a.div style={{ height }}>{items[index]}</a.div>
+        </a.div>
+      ))}
+    </div>
   );
 };
 
-const Content = () => {
-  return (
-    <Grid
-      container
-      spacing={1}
-      justifyContent="center"
-      alignItems="center"
-      className={classes.content}
-    >
+const pages: ((
+  props: AnimatedProps<{ style: CSSProperties }>
+) => React.ReactElement)[] = [
+  ({ style }) => (
+    <animated.div style={{ ...style }}>
       <Grid item xs={12} className={classes.para}>
         <p>
           The Raiden network mints branded digital tokens unique to your online
@@ -53,9 +59,23 @@ const Content = () => {
           you create across platform.
         </p>
       </Grid>
-      <Grid item xs={12} container className={classes.btnGrp}>
+    </animated.div>
+  ),
+  ({ style }) => (
+    <animated.div style={{ ...style, padding: 40 }}>
+      <Grid
+        item
+        container
+        justifyContent="center"
+        alignItems="center"
+        className={classes.btnGrp}
+      >
         <Grid item xs={6} className={classes.btn}>
-          <Button variant="contained" color="primary">
+          <Button
+            variant="contained"
+            color="primary"
+            style={{ margin: "0 5rem", fontSize: "2rem" }}
+          >
             <Link
               to="/buyerSignUp"
               style={{
@@ -68,28 +88,108 @@ const Content = () => {
           </Button>
         </Grid>
         <Grid item xs={6} className={classes.btn}>
-          <Button variant="contained" color="primary">
-          <Link
-              to="/Creator"
-              style={{
-                textDecoration: "none",
-                color: "white",
-              }}
-            >
-              Creator
-            </Link>          </Button>
+          <Button
+            variant="contained"
+            color="primary"
+            style={{ margin: "0 5rem", fontSize: "2rem" }}
+          >
+            Creator
+          </Button>
         </Grid>
       </Grid>
+    </animated.div>
+  ),
+  ({ style }) => (
+    <animated.div style={{ ...style }}>
       <Grid item xs={12} className={classes.para}>
         <p>
           We call these branded tokens creator coins and utilize the Solona
           Blockchain to mint each token under the ERC 20 standards. Using the
-          Solona Blockchain allows us develop social money in a wa that is
-          controlled by you and your community,not us as a network
+          Solona Blockchain allows us develop social money in a way that is
+          controlled by you and your community, not us as a network
         </p>
       </Grid>
-      
+    </animated.div>
+  ),
+];
+
+const Hero = () => {
+  const [open, set] = useState(true);
+  return (
+    <Grid
+      container
+      spacing={3}
+      justifyContent="center"
+      alignItems="center"
+      className={classes.hero}
+    >
+      <Grid
+        item
+        xs={6}
+        onClick={() => set((state) => !state)}
+        className={classes.heroText}
+        style={{ paddingLeft: "6rem" }}
+      >
+        <Trail open={open}>
+          <span className="playfair" style={{ color: "#ff9b21" }}>
+            Raiden{" "}
+          </span>
+          <span>is blockchain infrastructure</span>
+          <span>for social money.</span>
+        </Trail>
+      </Grid>
+      <Grid item xs={6} className={classes.hero_img}>
+        <img src={hero_img} alt="hero" className={classes.hero_img} />
+      </Grid>
+      {/* <div className={classes.coinPosition}>
+        <Coin />
+      </div> */}
     </Grid>
+  );
+};
+
+const Content = () => {
+  const [index, set] = useState(0);
+  const onClick = useCallback(() => set((state) => (state + 1) % 3), []);
+  const transRef = useSpringRef();
+  const transitions = useTransition(index, {
+    ref: transRef,
+    keys: null,
+    from: { opacity: 0, transform: "translate3d(100%,0,0)" },
+    enter: { opacity: 1, transform: "translate3d(0%,0,0)" },
+    leave: { opacity: 0, transform: "translate3d(-50%,0,0)" },
+  });
+  useEffect(() => {
+    transRef.start();
+  }, [index]);
+  return (
+    <Grid
+      container
+      spacing={1}
+      justifyContent="center"
+      alignItems="center"
+      className={classes.content}
+    >
+      <div
+        className={`flex fill ${classes.contentContainer}`}
+        onClick={onClick}
+      >
+        {transitions((style, i) => {
+          const Page = pages[i];
+          return <Page style={style} />;
+        })}
+      </div>
+    </Grid>
+    // <Grid
+    //   container
+    //   spacing={1}
+    //   justifyContent="center"
+    //   alignItems="center"
+    //   className={classes.content}
+    // >
+    //
+
+    // </Grid>
   );
 };
 
@@ -104,7 +204,7 @@ const Ranking = () => {
       <Grid item xs={4} className={classes.label}>
         <h1>Our Top Creators</h1>
       </Grid>
-      <Grid item xs={12}>
+      <Grid item xs={12} style={{ color: "black" }}>
         <TopRanking />
       </Grid>
     </Grid>
@@ -115,15 +215,66 @@ const Home = () => {
   return (
     <Container className={classes.container}>
       <Grid container spacing={3} direction="column">
-        <Grid container item xs={12} spacing={3}>
-          <Hero />
-        </Grid>
-        <Grid container direction="column" item xs={12} spacing={3}>
-          <Content />
-        </Grid>
-        <Grid container direction="column" item xs={12} spacing={3}>
-          <Ranking />
-        </Grid>
+        <Parallax pages={3} style={{ top: "0", left: "0" }}>
+          <ParallaxLayer
+            offset={0}
+            speed={2.5}
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+
+              marginTop: "5rem",
+            }}
+          >
+            <Grid container item>
+              <Hero />
+            </Grid>
+          </ParallaxLayer>
+          <ParallaxLayer
+            offset={1}
+            speed={2}
+            style={{ backgroundColor: "#D922FE", marginTop: "5rem" }}
+          />
+          <ParallaxLayer
+            offset={1}
+            speed={1.5}
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              color: "white",
+              marginTop: "5rem",
+            }}
+          >
+            <Grid container direction="column" item>
+              <Content />
+            </Grid>
+          </ParallaxLayer>
+          <ParallaxLayer
+            offset={2}
+            speed={1}
+            style={{
+              backgroundColor: "#BD3EF2",
+              marginTop: "5rem",
+            }}
+          />
+          <ParallaxLayer
+            offset={2}
+            speed={0.5}
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              color: "white",
+              marginTop: "5rem",
+            }}
+          >
+            <Grid container direction="column" item>
+              <Ranking />
+            </Grid>
+          </ParallaxLayer>
+        </Parallax>
       </Grid>
     </Container>
   );

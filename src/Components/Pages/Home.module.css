@@ -1,5 +1,7 @@
 * {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 /*Hero*/
 .hero {
@@ -7,26 +9,41 @@
 }
 .hero > .text {
   color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
+  margin-left: 8rem;
 }
+
 .hero_img {
   display: flex;
   justify-content: center;
   align-items: flex-end;
   padding-top: 3rem;
 }
+.hero > p {
+  padding: 0;
+  margin: 0;
+}
+.heroText {
+  margin: 0 4rem;
+}
+.heroText > span {
+  display: flex;
+  align-items: flex-end;
+}
 
 .para > span {
   color: #ff9b21;
   z-index: 1;
 }
-.para{
+.para {
   z-index: 2;
-  margin-top: 4rem;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
 }
 /*Content*/
 .content {
@@ -42,17 +59,19 @@
   font-size: 25px;
   font-weight: 300;
 }
+.btnGrp {
+  height: 10rem;
+  width: 100%;
+  margin: 0 5rem;
+}
 .btn {
   display: flex;
   justify-content: center;
   align-items: center;
   height: auto;
   width: auto;
+  margin: 0 5rem;
 }
-.btn > a {
-  text-decoration: none;
-}
-
 .ranking {
   height: 90vh;
   height: 90vh;
@@ -65,7 +84,7 @@
   align-items: center;
   color: #fff;
 }
-.coinPosition{
+.coinPosition {
   width: 100%;
   /* display: flex;
   /* flex-direction: row; */
@@ -76,4 +95,44 @@
   padding: 25px;
   position: sticky;
   top: 20;
+}
+
+.trailsText {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  color: white;
+  font-size: 4rem;
+  font-weight: 800;
+  letter-spacing: -0.05em;
+  will-change: transform, opacity;
+  overflow: hidden;
+}
+
+.trailsText > div {
+  padding-right: 0.05em;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}
+
+.contentContainer > div {
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 400;
+  font-size: 3rem;
+  will-change: transform, opacity;
+  text-shadow: 0px 2px 40px #00000020, 0px 2px 5px #00000030;
+  -webkit-user-select: none;
+  user-select: none;
 }
